@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "1001",
+    "category": "Definitions",
+    "text": "1.1 In this Agreement:\n(a) 'breakdown of the relationship' means the earliest of:\n    (i) the date on which the parties separate with no reasonable prospect that they will resume cohabitation;\n    (ii) the date on which one of the parties gives notice to the other in writing of an intention to live separate and apart;\n    (iii) the date of the dissolution of the parties' marriage;\n    (iv) the date of the annulment of the parties' marriage; or\n    (v) the date of death of either party;\n(b) \"cottage\" means the property at [address] in [place], which property is owned [solely by Party 1] [solely by Party 2] [jointly by the parties];\n(c) \"date of marriage residence\" or \"DOM residence\" means the property at [address] in [place], which the parties [have been ordinarily occupying as their family residence since (date)] [intend to ordinarily occupy as their family residence once they are married], which property is owned solely by Party 1, and does not include any other residence acquired in substitution for it;\n(d) \"equalization payment\" means the payment referred to in s. 5(1) of the INSERT PROVINCIAL PROPERTY ACT HERE;\n(e) \"family residence\" means any property that the parties purchase during the marriage (i.e., after the date of marriage) and ordinarily occupy as their family residence;\n(f) \"matrimonial home\" means a matrimonial home as defined in the INSERT PROVINCIAL PROPERTY ACT HERE;\n(g) \"net family property\" means net family property as defined in the INSERT PROVINCIAL PROPERTY ACT HERE;\n(h) \"property\" means property as defined in the INSERT PROVINCIAL PROPERTY ACT HERE;\n(i) \"spousal support\" includes support, alimony, maintenance or similar allowance, whether interim, permanent or variable, in this or any jurisdiction;\n(j) \"Spousal Support Advisory Guidelines\" means the paper *Spousal Support Advisory Guidelines* released in July 2008 by the Federal Department of Justice, and any amendments;\n(k) \"will\" means a testament, codicil, appointment by will or by writing in the nature of a will in exercise of a power, and any other testamentary disposition or instrument.",
+    "label": "Definitions - Breakdown of the Relationship"
+  },
+  {
+    "id": "2000",
+    "category": "Background",
+    "text": "Party 1 and Party 2 intend to marry on [marriageDate].",
+    "label": "Background - Party 1 and Party 2 intend to marry"
+  },
+  {
+    "id": "2001",
+    "category": "Background",
+    "text": "Party 1 and Party 2 have been cohabiting since on or about [cohabitationDate], and intend to marry on [marriageDate].",
+    "label": "Background - Party 1 and Party 2 have been cohabiting"
+  },
+  {
+    "id": "2002",
+    "category": "Background",
+    "text": "Party 1 and Party 2 were married on [marriageDate].",
+    "label": "Background - Party 1 and Party 2 were married"
+  },
+  {
+    "id": "2003",
+    "category": "Background",
+    "text": "Party 1 was born on [date] and is currently [age] years old. Party 2 was born on [date] and is currently [age] years old.",
+    "label": "Background - Party 1 and Party 2 were born"
+  },
+  {
+    "id": "2004",
+    "category": "Background",
+    "text": "Both Party 1 and Party 2 currently enjoy excellent states of health.",
+    "label": "Background - Party 1 and Party 2 are healthy"
+  },
+  {
+    "id": "2005",
+    "category": "Background",
+    "text": "Party 1 works as a [employment position/description] and is currently employed by [employer], earning approximately $[amount] per annum [base salary, plus bonuses].",
+    "label": "Background - Party 1 is employed"
+  },
+  {
+    "id": "2006",
+    "category": "Background",
+    "text": "Party 2 works as a [employment position/description] and is currently employed by [employer], earning approximately $[amount] per annum [base salary, plus bonuses].",
+    "label": "Background - Party 2 is employed"
+  },
+  {
+    "id": "2007",
+    "category": "Background",
+    "text": "Each party is self-supporting and expects to remain self-supporting for the rest of each of their respective lives, notwithstanding their [intended] marriage.",
+    "label": "Background - Party 1 and Party 2 are self-supporting"
+  },
+  {
+    "id": "2008",
+    "category": "Background",
+    "text": "Party 1 does not have any children.",
+    "label": "Background - Party 1 does not have any children"
+  },
+  {
+    "id": "2009",
+    "category": "Background",
+    "text": "Party 2 does not have any children.",
+    "label": "Background - Party 2 does not have any children"
+  },
+  {
+    "id": "2010",
+    "category": "Background",
+    "text": "The parties do not intend to have any children together.",
+    "label": "Background - Party 1 and Party 2 do not intend to have any children together"
+  },
+  {
+    "id": "2011",
+    "category": "Background",
+    "text": "The parties [have been living] [intend to live] in the DOM residence [which property (name of party) wishes to protect in the event of a breakdown of the relationship as set out in this Agreement].",
+    "label": "Background - Party 1 and Party 2 live in the DOM residence"
+  },
+  {
+    "id": "2012",
+    "category": "Background",
+    "text": "Each party agrees with the other to be bound by the terms of this contract.",
+    "label": "Background - Each party agrees with the other to be bound by the terms of this contract"
+  },
+  {
+    "id": "2013",
+    "category": "Background",
+    "text": "This Agreement replaces all oral or written agreements made between the parties.",
+    "label": "Background - This Agreement replaces all oral or written agreements made between the parties"
+  },
+  {
+    "id": "3000",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 acknowledge that each of them has all spousal support rights and obligations under the INSERT PROVINCIAL PROPERTY ACT HERE, the Divorce Act, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and any other applicable legislation or law, now or in the future, arising from their marriage and/or if the relationship ends.",
+    "label": "Spousal Support – Acknowledgement"
+  },
+  {
+    "id": "3001",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 waive any and all spousal support rights or obligations under the INSERT PROVINCIAL PROPERTY ACT HERE, the Divorce Act, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, or any other applicable legislation or law, now or in the future, arising from their marriage and/or if the relationship ends.",
+    "label": "Spousal Support – Waiver"
+  },
+  {
+    "id": "3002",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 intend to restrict or modify their spousal support rights and obligations as specifically stated in this Agreement, arising under Provincial and federal legislation, now or in the future, from their marriage or if the relationship ends.",
+    "label": "Spousal Support – Modification"
+  },
+  {
+    "id": "3003",
+    "category": "Intentions of Agreement",
+    "text": "Except as otherwise stated in this Agreement, neither Party 1 nor Party 2 will be entitled to any further spousal support rights or obligations under Provincial or federal law, now or in the future, from their marriage or if the relationship ends.",
+    "label": "Spousal Support – Residual Waiver"
+  },
+  {
+    "id": "3004",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 acknowledge that each retains all rights and obligations relating to property that have arisen or may arise under the INSERT PROVINCIAL PROPERTY ACT HERE, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, or other applicable legislation, now or in the future, from their marriage or if the relationship ends.",
+    "label": "Property – Acknowledgement"
+  },
+  {
+    "id": "3005",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 waive any and all property rights and obligations that have arisen or may arise under Provincial law, now or in the future, from their marriage or if the relationship ends.",
+    "label": "Property – Waiver"
+  },
+  {
+    "id": "3006",
+    "category": "Intentions of Agreement",
+    "text": "Except as specifically provided in this Agreement, the parties agree that none of their property will be divided between them other than according to ownership.",
+    "label": "Property – Division by Ownership"
+  },
+  {
+    "id": "3007",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 acknowledge that each of them retains any property rights and obligations under the INSERT PROVINCIAL PROPERTY ACT HERE, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and other applicable legislation, as those laws read on the date of this Agreement, from their marriage or if the relationship ends.",
+    "label": "Property – Acknowledgement (Current Legislation)"
+  },
+  {
+    "id": "3008",
+    "category": "Intentions of Agreement",
+    "text": "Party 1 and Party 2 agree to restrict or modify their property rights and obligations, as specifically provided in this Agreement, that have arisen or may arise under Provincial law, now or in the future, from their marriage or if the relationship ends.",
+    "label": "Property – Modification"
+  },
+  {
+    "id": "3009",
+    "category": "Intentions of Agreement",
+    "text": "[Optional: specify that certain business or trust assets of one party are excluded from net family property or division.]",
+    "label": "Property – Exclusion of Assets"
+  },
+  {
+    "id": "3010",
+    "category": "Intentions of Agreement",
+    "text": "[Optional: specify that the matrimonial home (DOM residence) is excluded from net family property.]",
+    "label": "Property – Exclusion of DOM Residence"
+  },
+  {
+    "id": "3011",
+    "category": "Intentions of Agreement",
+    "text": "[Optional: specify that the value of the DOM residence is deductible from net family property.]",
+    "label": "Property – Deduction of DOM Residence"
+  },
+  {
+    "id": "3012",
+    "category": "Intentions of Agreement",
+    "text": "[Optional: specify how any increase in the value of the DOM residence between this Agreement’s date and relationship breakdown is divided.]",
+    "label": "Property – Appreciation of DOM Residence"
+  },
+  {
+    "id": "3013",
+    "category": "Intentions of Agreement",
+    "text": "[Optional: specify that the DOM residence is divided strictly according to ownership interests.]",
+    "label": "Property – Division by Ownership of DOM Residence"
+  },
+  {
+    "id": "3014",
+    "category": "Intentions of Agreement",
+    "text": "[Optional: state any additional reasons or methods for modifying property rights and obligations, such as special assets or debts.]",
+    "label": "Property – Other Specific Modifications"
+  },
+  {
+    "id": "3015",
+    "category": "Intentions of Agreement",
+    "text": "Except as otherwise stated in this Agreement, both parties retain any and all rights and obligations relating to their property under Provincial law, now or in the future, from their marriage or if the relationship ends.",
+    "label": "Property – Residual Rights"
+  },
+  {
+    "id": "4000",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 do not intend to release any rights they may have against each other for spousal support in this Agreement. In the event of a breakdown of the relationship, each party will have such rights to receive financial support from the other and will be under such obligations to provide financial support to the other as are given or imposed upon each party by the INSERT PROVINCIAL PROPERTY ACT HERE, the Divorce Act, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "Spousal Support – No Release"
+  },
+  {
+    "id": "4001",
+    "category": "Spousal Support",
+    "text": "(a) Party 1 and Party 2 acknowledge that they wish to remain completely financially independent of each other. The parties, at all times during their cohabitation, marriage, or upon a breakdown of the relationship, are deemed to be self-supporting and responsible for their own support, there being no express or implied agreement that either party has a responsibility to support or maintain the other party. The parties acknowledge their own respective obligation and ability to obtain and maintain employment sufficient for their own support, and to use their own capital for their own support without recourse against the other party.",
+    "label": "Spousal Support – Financial Independence"
+  },
+  {
+    "id": "4002",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 release each other and their heirs, executors and administrators from all claims and rights that each has to support.",
+    "label": "Spousal Support – Release Clause (b)(i)"
+  },
+  {
+    "id": "4003",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 will not maintain, commence or prosecute or cause to be maintained, commenced or prosecuted any action against the other for support arising out of their cohabitation, marriage, or upon a breakdown of the relationship, under the INSERT PROVINCIAL PROPERTY ACT HERE, the Divorce Act, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, or under any other presently existing legislation or future legislation, whether in this jurisdiction or any other jurisdiction.",
+    "label": "Spousal Support – Release Clause (b)(ii)"
+  },
+  {
+    "id": "4004",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 realize that their respective financial circumstances may change in the future, by reason of career reversals, loss of employment, retirement, lack of employment opportunities, contingencies of life including illness and disability, childcare responsibilities, inheritances, adverse economic circumstances such as rising costs and inflation, the mismanagement of funds by themselves or others, financial reversals, poverty, or a general change in family conditions, inter alia. No such change in circumstances, whether catastrophic, drastic, radical, material, profound, unanticipated, foreseeable, foreseen, unforeseeable, unforeseen or beyond imagining, and no matter how extreme or consequential for either or both of them, whether or not the change is causally connected to the marriage, and whether or not such change arises from a pattern of economic dependency related to the marriage, will alter this Agreement or entitle either party to support from the other.",
+    "label": "Spousal Support – Future Circumstances (c)"
+  },
+  {
+    "id": "4005",
+    "category": "Spousal Support",
+    "text": "They are financially independent and do not require financial assistance from the other.",
+    "label": "Spousal Support – Acknowledgements (d)(i)"
+  },
+  {
+    "id": "4006",
+    "category": "Spousal Support",
+    "text": "They have negotiated this Agreement in an unimpeachable fashion and that the terms of this Agreement fully represent their intentions and expectations.",
+    "label": "Spousal Support – Acknowledgements (d)(ii)"
+  },
+  {
+    "id": "4007",
+    "category": "Spousal Support",
+    "text": "They have had independent legal advice and all the disclosure they have requested and require to understand the nature and consequences of this Agreement and the implications of waiving support, and to come to the conclusion, as they do, that the terms of this Agreement, including the release of all spousal support rights, reflects an equitable arrangement for support in their cohabitation, marriage or upon a breakdown of the relationship.",
+    "label": "Spousal Support – Acknowledgements (d)(iii)"
+  },
+  {
+    "id": "4008",
+    "category": "Spousal Support",
+    "text": "The terms of this Agreement substantially comply with the overall objectives of the INSERT PROVINCIAL PROPERTY ACT HERE and the Divorce Act now and in the future, and Party 1 and Party 2 have specifically considered the provisions and factors set out in sections 30 and 33 of the INSERT PROVINCIAL PROPERTY ACT HERE and sections 15.2 and 17 of the Divorce Act.",
+    "label": "Spousal Support – Acknowledgements (d)(iv)"
+  },
+  {
+    "id": "4009",
+    "category": "Spousal Support",
+    "text": "They have been advised by their respective solicitors of rulings in the Provincial courts in which the court has awarded spousal support, notwithstanding that full releases of spousal support have been contained in an agreement. Party 1 and Party 2 require the courts to respect their autonomy to achieve certainty and finality in their lives and to enforce this Agreement and specifically this spousal support release.",
+    "label": "Spousal Support – Acknowledgements (d)(v)"
+  },
+  {
+    "id": "4010",
+    "category": "Spousal Support",
+    "text": "This Agreement may be pleaded as a complete defence to any claim brought by either party for spousal support in contravention of this Agreement.",
+    "label": "Spousal Support – Acknowledgements (d)(vi)"
+  },
+  {
+    "id": "4011",
+    "category": "Spousal Support",
+    "text": "The terms of this Agreement and, in particular, this release of spousal support, reflect their own particular objectives and concerns, and are intended to be a final and certain settling of all support issues between them. Among other considerations, Party 1 and Party 2 are also relying on this spousal release, in particular, upon which to base their future lives.",
+    "label": "Spousal Support – Acknowledgements (d)(vii)"
+  },
+  {
+    "id": "4012",
+    "category": "Spousal Support",
+    "text": "If at any time, a party is unable to be self-supporting in whole or in part and the other party voluntarily assumes support directly or indirectly for the non self-supporting party, such voluntary payments will not constitute a waiver of the terms of the Agreement, particularly this spousal support release, nor will they create any future responsibility for support.",
+    "label": "Spousal Support – Voluntary Payments (e)"
+  },
+  {
+    "id": "4013",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 intend this paragraph of the Agreement to be forever final and non-variable. In short, Party 1 and Party 2 expect the courts to enforce fully this spousal support release no matter what occurs in the future.",
+    "label": "Spousal Support – Final & Non-variable (f)"
+  },
+  {
+    "id": "4014",
+    "category": "Spousal Support",
+    "text": "If there is a breakdown of the relationship [for any reason other than the death of one of the parties], then Party 1 will pay Party 2 lump sum spousal support in the amount of $[amount], within [number] months from the date of the breakdown of the relationship. This amount will be payable on the following terms and conditions:",
+    "label": "Spousal Support – Lump Sum Payment on Breakdown (Main)"
+  },
+  {
+    "id": "4015",
+    "category": "Spousal Support",
+    "text": "It will be paid regardless of the financial circumstances of Party 1 and Party 2 at breakdown of the relationship.",
+    "label": "Spousal Support – Lump Sum Terms (4.3)(a)"
+  },
+  {
+    "id": "4016",
+    "category": "Spousal Support",
+    "text": "It will not be deducted from the income of Party 1, nor included in the income of Party 2, so that no tax consequences will apply to the payment.",
+    "label": "Spousal Support – Lump Sum Terms (4.3)(b)"
+  },
+  {
+    "id": "4017",
+    "category": "Spousal Support",
+    "text": "It will be a lump sum one time payment, made on the basis that all other support claims between Party 1 and Party 2 are forever barred.",
+    "label": "Spousal Support – Lump Sum Terms (4.3)(c)"
+  },
+  {
+    "id": "4018",
+    "category": "Spousal Support",
+    "text": "If there is a breakdown of the relationship [for any reason other than the death of one of the parties], then Party 1 will pay Party 2 lump sum spousal support, within [number] months from the date of the breakdown of the relationship as follows:",
+    "label": "Spousal Support – Lump Sum Variation (4.4)(a)"
+  },
+  {
+    "id": "4019",
+    "category": "Spousal Support",
+    "text": "No support if there is a breakdown of the marriage on or before the parties' [second] wedding anniversary.",
+    "label": "Spousal Support – Lump Sum Variation Tier (i)"
+  },
+  {
+    "id": "4020",
+    "category": "Spousal Support",
+    "text": "$[amount] if there is a breakdown of the relationship after the parties' [second] wedding anniversary but on or before their [fifth] wedding anniversary.",
+    "label": "Spousal Support – Lump Sum Variation Tier (ii)"
+  },
+  {
+    "id": "4021",
+    "category": "Spousal Support",
+    "text": "$[amount] if there is a breakdown of the relationship after the parties' [fifth] wedding anniversary but on or before their [tenth] wedding anniversary.",
+    "label": "Spousal Support – Lump Sum Variation Tier (iii)"
+  },
+  {
+    "id": "4022",
+    "category": "Spousal Support",
+    "text": "$[amount] if there is a breakdown of the relationship after the parties' [tenth] wedding anniversary but on or before their [twentieth] wedding anniversary.",
+    "label": "Spousal Support – Lump Sum Variation Tier (iv)"
+  },
+  {
+    "id": "4023",
+    "category": "Spousal Support",
+    "text": "$[amount] if there is a breakdown of the relationship after the parties' [twentieth] wedding anniversary.",
+    "label": "Spousal Support – Lump Sum Variation Tier (v)"
+  },
+  {
+    "id": "4024",
+    "category": "Spousal Support",
+    "text": "This amount will be payable on the following terms and conditions:",
+    "label": "Spousal Support – Terms for Lump Sum Variation (4.4)(b)"
+  },
+  {
+    "id": "4025",
+    "category": "Spousal Support",
+    "text": "It will be paid regardless of the financial circumstances of Party 1 and Party 2 at breakdown of the relationship.",
+    "label": "Spousal Support – Terms Variation (i)"
+  },
+  {
+    "id": "4026",
+    "category": "Spousal Support",
+    "text": "It will not be deducted from the income of Party 1, nor included in the income of Party 2, so that no tax consequences will apply to the payment.",
+    "label": "Spousal Support – Terms Variation (ii)"
+  },
+  {
+    "id": "4027",
+    "category": "Spousal Support",
+    "text": "It will be a lump sum one time payment, made on the basis that all other support claims between Party 1 and Party 2 are forever barred.",
+    "label": "Spousal Support – Terms Variation (iii)"
+  },
+  {
+    "id": "4028",
+    "category": "Spousal Support",
+    "text": "Upon payment of the lump sum spousal support in paragraph [insert number] above:",
+    "label": "Spousal Support – Lump Sum Consequences (Main) (4.5)"
+  },
+  {
+    "id": "4029",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 release each other and their heirs, executors and administrators from all claims and rights that each has to support.",
+    "label": "Spousal Support – Consequences (4.5)(a)(i)"
+  },
+  {
+    "id": "4030",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 will not maintain, commence or prosecute or cause to be maintained, commenced or prosecuted any action against the other for support.",
+    "label": "Spousal Support – Consequences (4.5)(a)(ii)"
+  },
+  {
+    "id": "4031",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 realize that their respective financial circumstances may change in the future, by reason of career reversals, loss of employment, retirement, lack of employment opportunities, contingencies of life including illness and disability, childcare responsibilities, inheritances, adverse economic circumstances such as rising costs and inflation, the mismanagement of funds by themselves or others, financial reversals, poverty, or a general change in family conditions, inter alia. No such change in circumstances, whether catastrophic, drastic, radical, material, profound, unanticipated, foreseeable, foreseen, unforeseeable, unforeseen or beyond imagining, and no matter how extreme or consequential for either or both of them, whether or not the change is causally connected to the marriage, and whether or not such change arises from a pattern of economic dependency related to the marriage, will alter this Agreement or entitle either party to support from the other except in accordance with this Agreement.",
+    "label": "Spousal Support – Consequences (4.5)(b)"
+  },
+  {
+    "id": "4032",
+    "category": "Spousal Support",
+    "text": "They are financially independent and do not require financial assistance from the other except in accordance with this Agreement.",
+    "label": "Spousal Support – Consequences (4.5)(c)(i)"
+  },
+  {
+    "id": "4033",
+    "category": "Spousal Support",
+    "text": "They have negotiated this Agreement in an unimpeachable fashion and that the terms of this Agreement fully represent their intentions and expectations.",
+    "label": "Spousal Support – Consequences (4.5)(c)(ii)"
+  },
+  {
+    "id": "4034",
+    "category": "Spousal Support",
+    "text": "They have had independent legal advice and all the disclosure they have requested and require to understand the nature and consequences of this Agreement and the implications of waiving support, and to come to the conclusion, as they do, that the terms of this Agreement, including the release above, of all spousal support rights, reflects an equitable arrangement for support in their cohabitation, marriage or upon a breakdown of the relationship.",
+    "label": "Spousal Support – Consequences (4.5)(c)(iii)"
+  },
+  {
+    "id": "4035",
+    "category": "Spousal Support",
+    "text": "The terms of this Agreement substantially comply with the overall objectives of the INSERT PROVINCIAL PROPERTY ACT HERE and the Divorce Act now and in the future, and Party 1 and Party 2 have specifically considered the provisions and factors set out in sections 30 and 33 of the INSERT PROVINCIAL PROPERTY ACT HERE and sections 15.2 and 17 of the Divorce Act.",
+    "label": "Spousal Support – Consequences (4.5)(c)(iv)"
+  },
+  {
+    "id": "4036",
+    "category": "Spousal Support",
+    "text": "They have been advised by their respective solicitors of rulings in the Provincial courts in which the court has awarded spousal support, notwithstanding that full releases of spousal support have been contained in an agreement. Party 1 and Party 2 require the courts to respect their autonomy to achieve certainty and finality in their lives and to enforce this Agreement and specifically this spousal support release.",
+    "label": "Spousal Support – Consequences (4.5)(c)(v)"
+  },
+  {
+    "id": "4037",
+    "category": "Spousal Support",
+    "text": "This Agreement may be pleaded as a complete defence to any claim brought by either party for spousal support in contravention of this Agreement.",
+    "label": "Spousal Support – Consequences (4.5)(c)(vi)"
+  },
+  {
+    "id": "4038",
+    "category": "Spousal Support",
+    "text": "The terms of this Agreement and, in particular, this release of spousal support upon payment of the lump sum support above, reflect their own particular objectives and concerns, and are intended to be a final and certain settling of all support issues between them. Among other considerations, Party 1 and Party 2 are also relying on this spousal release, in particular, upon which to base their future lives.",
+    "label": "Spousal Support – Consequences (4.5)(c)(vii)"
+  },
+  {
+    "id": "4039",
+    "category": "Spousal Support",
+    "text": "If at any time, a party is unable to be self-supporting in whole or in part and the other party voluntarily assumes support directly or indirectly for the non self-supporting party, such voluntary payments will not constitute a waiver of the terms of the Agreement, particularly this spousal support release, nor will they create any future responsibility for support.",
+    "label": "Spousal Support – Consequences (4.5)(d)"
+  },
+  {
+    "id": "4040",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 intend this paragraph of the Agreement to be forever final and non-variable. In short, Party 1 and Party 2 expect the courts to enforce fully this spousal support release no matter what occurs in the future.",
+    "label": "Spousal Support – Consequences (4.5)(e)"
+  },
+  {
+    "id": "4041",
+    "category": "Spousal Support",
+    "text": "If there is a breakdown of the relationship [for any reason other than the death of one of the parties], then Party 1 will pay Party 2 monthly spousal support in the amount of $[amount], beginning on the [first] day of the month following the breakdown of the relationship, for a period of [number] years. This support is provided to offset any economic disadvantage caused to Party 2 as a result of the marriage, and will be paid, regardless of the financial circumstances of Party 1 and Party 2 on a breakdown of the relationship.",
+    "label": "Spousal Support – Monthly Payment (4.6)"
+  },
+  {
+    "id": "4042",
+    "category": "Spousal Support",
+    "text": "If there is a breakdown of the relationship [for any reason other than the death of one of the parties], then Party 1 will pay Party 2 monthly spousal support, beginning on the [first] day of the month following the breakdown of the relationship, as follows:",
+    "label": "Spousal Support – Tiered Monthly Payments (Main) (4.7)"
+  },
+  {
+    "id": "4043",
+    "category": "Spousal Support",
+    "text": "No support if there is a breakdown of the marriage on or before the parties' [second] wedding anniversary.",
+    "label": "Spousal Support – Tiered Monthly (a)"
+  },
+  {
+    "id": "4044",
+    "category": "Spousal Support",
+    "text": "$[amount], for a period of [number] [months/years], if there is a breakdown of the relationship after the parties' [second] wedding anniversary but on or before their [fifth] wedding anniversary.",
+    "label": "Spousal Support – Tiered Monthly (b)"
+  },
+  {
+    "id": "4045",
+    "category": "Spousal Support",
+    "text": "$[amount], for a period of [number] [months/years], if there is a breakdown of the relationship after the parties' [fifth] wedding anniversary but on or before their [tenth] wedding anniversary.",
+    "label": "Spousal Support – Tiered Monthly (c)"
+  },
+  {
+    "id": "4046",
+    "category": "Spousal Support",
+    "text": "$[amount], for a period of [number] [months/years], if there is a breakdown of the relationship after the parties' [tenth] wedding anniversary but on or before their [twentieth] wedding anniversary.",
+    "label": "Spousal Support – Tiered Monthly (d)"
+  },
+  {
+    "id": "4047",
+    "category": "Spousal Support",
+    "text": "$[amount], until [Party 2's death], if there is a breakdown of the relationship after the parties' [twentieth] wedding anniversary.",
+    "label": "Spousal Support – Tiered Monthly (e)"
+  },
+  {
+    "id": "4048",
+    "category": "Spousal Support",
+    "text": "The monthly support will be adjusted annually on the anniversary date of the first support payment in accordance with the All Items Consumer Price Index for [the City of Toronto] [the Province of Provincial] [Canada] (not seasonally adjusted) with base year 1992 equal to 100, as provided by Statistics Canada.",
+    "label": "Spousal Support – Annual COLA (4.8)"
+  },
+  {
+    "id": "4049",
+    "category": "Spousal Support",
+    "text": "There will be no cost of living adjustment to the spousal support amounts either before or after the support is in pay.",
+    "label": "Spousal Support – No COLA (4.9)"
+  },
+  {
+    "id": "4050",
+    "category": "Spousal Support",
+    "text": "The parties acknowledge that Party 1 will deduct the spousal support payments from Party 1's taxable income and that Party 2 will include the spousal support payments in Party 2's taxable income. Party 1 and Party 2 will enter into a separation agreement confirming the amounts of support payable pursuant to paragraph [insert number] above [and the cost of living adjustment pursuant to paragraph] [insert number] to ensure this tax treatment of support.",
+    "label": "Spousal Support – Tax Treatment (4.10)"
+  },
+  {
+    "id": "4051",
+    "category": "Spousal Support",
+    "text": "Spousal support ends when: (a) Party 1 makes the final spousal support payment pursuant to paragraph [insert number] above; (b) Party 2 dies; (c) Party 1 dies, if adequate life insurance [as required by this Agreement] is in place. If it is not, Party 1's estate will continue to pay the spousal support. As Party 1's estate will not be able to deduct the support payments for income tax purposes and Party 2 may not have to include the support in Party 2's taxable income, the monthly support payment will be reduced to the net after-tax monthly support Party 2 was entitled to receive immediately before Party 1's death. If they cannot agree on the amount, Party 1's estate and Party 2 will use the section of this Agreement entitled “Dispute Resolution” to resolve the issue; whichever event happens earliest.",
+    "label": "Spousal Support – Termination (Main) (4.11)"
+  },
+  {
+    "id": "4052",
+    "category": "Spousal Support",
+    "text": "Party 1 makes the final spousal support payment pursuant to paragraph [insert number] above.",
+    "label": "Spousal Support – Termination (4.11)(a)"
+  },
+  {
+    "id": "4053",
+    "category": "Spousal Support",
+    "text": "Party 2 dies.",
+    "label": "Spousal Support – Termination (4.11)(b)"
+  },
+  {
+    "id": "4054",
+    "category": "Spousal Support",
+    "text": "Party 1 dies, if adequate life insurance is in place. If it is not, Party 1’s estate will continue to pay support, with the monthly support reduced to the net after-tax amount that Party 2 was receiving.",
+    "label": "Spousal Support – Termination (4.11)(c)"
+  },
+  {
+    "id": "4055",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 each acknowledge and accept that with the assistance of the above spousal support payments, they will be financially independent of one another, and each releases any right to spousal support from the other, except in accordance with the terms of this Agreement. Once spousal support ceases pursuant to this Agreement, Party 1 and Party 2 intend spousal support to end forever. This term cannot be changed.",
+    "label": "Spousal Support – Final Release after Payment (4.12)(a)"
+  },
+  {
+    "id": "4056",
+    "category": "Spousal Support",
+    "text": "Upon payment of the periodic spousal support in paragraph [insert number] above:",
+    "label": "Spousal Support – Periodic Payment Consequences (Main) (4.12)(b)"
+  },
+  {
+    "id": "4057",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 release each other and their heirs, executors and administrators from all claims and rights that each has to support.",
+    "label": "Spousal Support – Periodic Consequences (i)(1)"
+  },
+  {
+    "id": "4058",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 will not maintain, commence or prosecute or cause to be maintained, commenced or prosecuted any action against the other for support.",
+    "label": "Spousal Support – Periodic Consequences (i)(2)"
+  },
+  {
+    "id": "4059",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 realize that their respective financial circumstances may change in the future, by reason of career reversals, loss of employment, retirement, lack of employment opportunities, contingencies of life including illness and disability, childcare responsibilities, inheritances, adverse economic circumstances, poverty, or a general change in family conditions, inter alia. No such change will alter this Agreement or entitle either party to support from the other except in accordance with this Agreement.",
+    "label": "Spousal Support – Periodic Consequences (ii)"
+  },
+  {
+    "id": "4060",
+    "category": "Spousal Support",
+    "text": "They are financially independent and do not require financial assistance from the other except in accordance with this Agreement.",
+    "label": "Spousal Support – Periodic Consequences (iii)(1)"
+  },
+  {
+    "id": "4061",
+    "category": "Spousal Support",
+    "text": "They have negotiated this Agreement in an unimpeachable fashion and that the terms of this Agreement fully represent their intentions and expectations.",
+    "label": "Spousal Support – Periodic Consequences (iii)(2)"
+  },
+  {
+    "id": "4062",
+    "category": "Spousal Support",
+    "text": "They have had independent legal advice and all the disclosure they have requested and require to understand the nature and consequences of this Agreement and the implications of waiving support, and to come to the conclusion, as they do, that the terms of this Agreement, including the release of all spousal support rights upon payment of the periodic spousal support above, reflects an equitable arrangement for support in their cohabitation, marriage or upon a breakdown of the relationship.",
+    "label": "Spousal Support – Periodic Consequences (iii)(3)"
+  },
+  {
+    "id": "4063",
+    "category": "Spousal Support",
+    "text": "The terms of this Agreement substantially comply with the overall objectives of the INSERT PROVINCIAL PROPERTY ACT HERE and the Divorce Act now and in the future, and Party 1 and Party 2 have specifically considered the provisions and factors set out in sections 30 and 33 of the INSERT PROVINCIAL PROPERTY ACT HERE and sections 15.2 and 17 of the Divorce Act.",
+    "label": "Spousal Support – Periodic Consequences (iii)(4)"
+  },
+  {
+    "id": "4064",
+    "category": "Spousal Support",
+    "text": "They have been advised by their respective solicitors of rulings in the Provincial courts in which the court has awarded spousal support, notwithstanding that full releases of spousal support have been contained in an agreement. Party 1 and Party 2 require the courts to respect their autonomy to achieve certainty and finality in their lives and to enforce this Agreement and specifically this spousal support release upon payment of the periodic spousal support above.",
+    "label": "Spousal Support – Periodic Consequences (iii)(5)"
+  },
+  {
+    "id": "4065",
+    "category": "Spousal Support",
+    "text": "This Agreement may be pleaded as a complete defence to any claim brought by either party for spousal support in contravention of this Agreement.",
+    "label": "Spousal Support – Periodic Consequences (iii)(6)"
+  },
+  {
+    "id": "4066",
+    "category": "Spousal Support",
+    "text": "The terms of this Agreement and, in particular, this release of spousal support upon payment of the periodic spousal support above, reflect their own particular objectives and concerns, and are intended to be a final and certain settling of all support issues between them. Among other considerations, Party 1 and Party 2 are also relying on this spousal release, in particular, upon which to base their future lives.",
+    "label": "Spousal Support – Periodic Consequences (iii)(7)"
+  },
+  {
+    "id": "4067",
+    "category": "Spousal Support",
+    "text": "If at any time, a party is unable to be self-supporting in whole or in part and the other party voluntarily assumes support directly or indirectly for the non self-supporting party, such voluntary payments will not constitute a waiver of the terms of the Agreement, particularly this spousal support release, nor will they create any future responsibility for support.",
+    "label": "Spousal Support – Periodic Consequences (iv)"
+  },
+  {
+    "id": "4068",
+    "category": "Spousal Support",
+    "text": "Party 1 and Party 2 intend this paragraph of the Agreement to be forever final and non-variable. In short, Party 1 and Party 2 expect the courts to enforce fully this spousal support release no matter what occurs in the future.",
+    "label": "Spousal Support – Periodic Consequences (v)"
+  },
+  {
+    "id": "4069",
+    "category": "Spousal Support",
+    "text": "If there is a breakdown of the relationship [for any reason other than the death of one of the parties], then Party 1 will pay Party 2 spousal support in accordance with the Spousal Support Advisory Guidelines.",
+    "label": "Spousal Support – Reference to SSAG (4.13)"
+  },
+  {
+    "id": "5000",
+    "category": "Child Support",
+    "text": "In the event of a breakdown of the relationship, all rights and obligations of either party to provide support for any natural or adopted children of the marriage will be governed by the INSERT PROVINCIAL PROPERTY ACT HERE, the Divorce Act, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE or any other applicable legislation or law at the relevant time.",
+    "label": "Child Support – Breakdown of Relationship"
+  },
+  {
+    "id": "5001",
+    "category": "Child Support",
+    "text": "[name] will be solely responsible for the support of [her] child from a prior relationship. [name] will not make any claim against bmkPriorKidsNoClaimAgainst2 for child support for bmkPriorKidsNoClaimMake2 child under the INSERT PROVINCIAL PROPERTY ACT HERE, the Divorce Act, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and any other applicable legislation or law. Party 1 and Party 2 agree that [name]'s interactions with [name]'s child will not be construed so as to place [name] in loco parentis, or to make [name] liable for child support for [name]'s child. Party 1 and Party 2 further agree that any contributions bmkNewSpouseOne2 makes to the household expenses or the lifestyle of the parties that includes [name]'s child, will not be construed as an intention to support [name]'s child, nor will the child be seen as a dependant of [name].",
+    "label": "Child Support – Prior Relationship"
+  },
+  {
+    "id": "5002",
+    "category": "Child Support",
+    "text": "Notwithstanding the paragraph above, in the event that a party is found liable to pay child support for the other party's child[ren] or in the event that a claim for child support for the other party's child[ren] is brought against that first party by any person, including but not limited to the child[ren] and/or the child[ren]'s other biological parent, the other party will indemnify and save that first party harmless against any such claim, expense or liability, including any order made against that first party, and any costs, interest or penalties related to the order.",
+    "label": "Child Support – Indemnification"
+  },
+  {
+    "id": "6000",
+    "category": "Life Insurance",
+    "text": "[Party 1] [Party 2] has arranged a whole life policy of insurance on [his] [her] life with [life insurance company]. The policy has a face value of $[amount] and [name of the other party] is named as the owner and beneficiary thereof.",
+    "label": "Life Insurance – Policy Arrangement"
+  },
+  {
+    "id": "6001",
+    "category": "Life Insurance",
+    "text": "[Party 1] [Party 2] will pay the annual premiums of $[amount] for such policy of insurance, [together with a deposit option of $(amount) annually,] as and when such payments fall due, to maintain the policy in good standing. (At the expiration of [number] years from the first annual premium payment, it is anticipated that the annual policy premiums will be paid from the accumulated policy value, provided however, that if in any year after [number] years, there are insufficient monies to pay such premiums and there has been no breakdown of the relationship, [Party 1] [Party 2] will pay any amounts that fall due to maintain the policy in good standing.)",
+    "label": "Life Insurance – Premium Payment"
+  },
+  {
+    "id": "6002",
+    "category": "Life Insurance",
+    "text": "[Party 1] [Party 2] will provide [name of the other party] with a copy of the policy, proof of ownership and beneficiary designation and proof of the payment of the initial premium and deposit amount, within 30 days of the date of this Agreement. [Name of the other party] may request annually proof that the policy remains in good standing and [Party 1] [Party 2] will provide such proof.",
+    "label": "Life Insurance – Proof of Policy"
+  },
+  {
+    "id": "6003",
+    "category": "Life Insurance",
+    "text": "On a breakdown of the relationship for any reason other than [Party 1] [Party 2]'s death, [name of the other party] will be entitled to receive the entire cash surrender value of the policy, and [Party 1] [Party 2]'s estate will be under no obligation to support [name of the other party]. If [name of the other party] chooses to retain the policy until [Party 1] [Party 2]'s death notwithstanding the breakdown of the relationship, [name of the other party] shall assume sole liability for any premiums that may fall due. The cash surrender value of the policy shall at all times be excluded from the calculation of the parties' net family property.",
+    "label": "Life Insurance – Entitlement on Breakdown"
+  },
+  {
+    "id": "6004",
+    "category": "Life Insurance",
+    "text": "On a breakdown of the relationship as a result of [Party 1] [Party 2]'s death, [name of the other party] will be entitled to receive the entire proceeds of the life insurance policy, provided that [name of the other party] survives [Party 1] [Party 2] by at least [thirty] days. Otherwise, the proceeds of the policy will be paid to the children of Party 1 and Party 2 alive at [name of the other party]'s death. If no such children are alive, the proceeds will be paid to [Party 1] [Party 2]'s estate.",
+    "label": "Life Insurance – Entitlement on Death"
+  },
+  {
+    "id": "7000",
+    "category": "Property Rights",
+    "text": "Party 1 and Party 2 agree that their property will at all times be treated in accordance with the INSERT PROVINCIAL PROPERTY ACT HERE, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "Property – General Application"
+  },
+  {
+    "id": "7001",
+    "category": "Property Rights",
+    "text": "Party 1 and Party 2 do not intend to release any rights they may have against each other with respect to their property. During the marriage and upon a breakdown of the relationship, each party will have such rights and will be under such obligations, with respect to their property as are given or imposed upon each party by the INSERT PROVINCIAL PROPERTY ACT HERE, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "Property – No Release"
+  },
+  {
+    "id": "7002",
+    "category": "Property Rights",
+    "text": "Party 1 and Party 2 will be separate as to property, and all property owned by either party, whether acquired before or after the date of this Agreement, will be and remain the exclusive property of the owner, throughout the marriage and upon a breakdown of the relationship.",
+    "label": "Separate Property"
+  },
+  {
+    "id": "7003",
+    "category": "Property Rights",
+    "text": "Neither Party 1 nor Party 2 will claim or be entitled to an equalization payment from the other, or to a division of property owned by the other, upon a breakdown of the relationship. Under no circumstances will any property owned by either party, or by the parties together, be included in the net family property of either party.",
+    "label": "No Equalization"
+  },
+  {
+    "id": "7004",
+    "category": "Property Rights",
+    "text": "Party 1 and Party 2 each waives all rights under Part I of the INSERT PROVINCIAL PROPERTY ACT HERE and all other rights that each has or may acquire under any other applicable legislation or law, now or in the future, in law or in equity, to property owned by the other.",
+    "label": "Waiver of Rights"
+  },
+  {
+    "id": "7005",
+    "category": "Property Rights",
+    "text": "For greater certainty, the property listed in Schedule \"[letter]\", any property substituted for such property, any income generated from such property, and any increase in the value of such property, are recognized as Party 1's alone for all purposes and at all times, and will at no time be considered net family property for the purposes of any division or interest under the INSERT PROVINCIAL PROPERTY ACT HERE or any other applicable legislation or law, now or in the future, in law or in equity.",
+    "label": "Excluded Property – Schedules"
+  },
+  {
+    "id": "7006",
+    "category": "Property Rights",
+    "text": "For greater certainty, the property listed in Schedule \"[letter]\", any property substituted for such property, any income generated from such property, and any increase in the value of such property, are recognized as Party 2's alone for all purposes and at all times, and will at no time be considered net family property for the purposes of any division or interest under the INSERT PROVINCIAL PROPERTY ACT HERE or any other applicable legislation or law, now or in the future, in law or in equity.",
+    "label": "Excluded Property – Schedules"
+  },
+  {
+    "id": "7007",
+    "category": "Property Rights",
+    "text": "This paragraph may be pleaded and is a complete defence to any claim, application or other court proceeding by either party for an equalization of their net family property or any other proceeding involving a claim for a division of property or its value.",
+    "label": "Complete Defence"
+  },
+  {
+    "id": "7008",
+    "category": "Property Rights",
+    "text": "Except as otherwise provided in this Agreement, Party 1 and Party 2 may dispose of, encumber or otherwise deal with their respective property as they see fit, free of any claim by the other as if they were unmarried.",
+    "label": "Dealing with Own Property"
+  },
+  {
+    "id": "7009",
+    "category": "Property Rights",
+    "text": "Nothing in this Agreement restricts or modifies the rights or obligations of either party with respect to the possession, disposition or encumbrance of a matrimonial home, pursuant to Part II of the INSERT PROVINCIAL PROPERTY ACT HERE.",
+    "label": "Matrimonial Home"
+  },
+  {
+    "id": "7010",
+    "category": "Property Rights",
+    "text": "Title to any property in the name of one of the parties will be conclusive proof of the separate and exclusive ownership of the property by that party, unless the party having title has expressly acknowledged by written declaration of trust or other written document, the ownership rights of the other party.",
+    "label": "Ownership Determines Division"
+  },
+  {
+    "id": "7011",
+    "category": "Property Rights",
+    "text": "Where title to any particular property cannot be established, proof of the purchase or of the receipt by gift or inheritance of the property will be conclusive proof of the separate and exclusive ownership of the property by the party who purchased it or received it by gift or inheritance.",
+    "label": "Proof of Purchase"
+  },
+  {
+    "id": "7012",
+    "category": "Property Rights",
+    "text": "Property transferred from one party to the other by an appropriate written instrument will be deemed to be owned by the party to whom the property is transferred.",
+    "label": "Transfers"
+  },
+  {
+    "id": "7013",
+    "category": "Property Rights",
+    "text": "Subject to any trust declaration relating to the matrimonial home, property held in the name of one party will be deemed to be owned by that party.",
+    "label": "Property in One Name"
+  },
+  {
+    "id": "7014",
+    "category": "Property Rights",
+    "text": "Property held in the name of both parties as joint tenants will be deemed to be owned by both parties as joint tenants, in equal shares, with rights of survivorship.",
+    "label": "Joint Tenancies"
+  },
+  {
+    "id": "7015",
+    "category": "Property Rights",
+    "text": "Property held in the name of both parties together will, unless the title document states otherwise, be owned by the parties equally as tenants in common as to an undivided one-half interest and not as joint tenants, or if a ratio is specified, will be owned by the parties in proportion to the specified ratio as tenants in common.",
+    "label": "Tenants in Common"
+  },
+  {
+    "id": "7016",
+    "category": "Property Rights",
+    "text": "Money on deposit in the name of both parties as joint tenants will be deemed to be in the names of both parties as joint tenants with rights of survivorship.",
+    "label": "Money in Joint Names"
+  },
+  {
+    "id": "7017",
+    "category": "Property Rights",
+    "text": "Money on deposit in the name of one party will be deemed to be owned by that party.",
+    "label": "Money in One Name"
+  },
+  {
+    "id": "7018",
+    "category": "Property Rights",
+    "text": "Household contents and personal effects will be distributed between the parties according to ownership, whether that ownership arises by way of purchase, inheritance or gift, including gifts from the other party.",
+    "label": "Household Contents & Personal Effects"
+  },
+  {
+    "id": "7019",
+    "category": "Property Rights",
+    "text": "Household contents and personal effects purchased during the marriage out of joint funds for the parties' joint use and enjoyment, or gifted to the parties jointly, will be divided equally in kind.",
+    "label": "Joint Household Contents"
+  },
+  {
+    "id": "7020",
+    "category": "Property Rights",
+    "text": "[Except as otherwise provided in this Agreement,] Party 1 and Party 2 agree that their property will at all times be treated, divided and equalized in accordance with Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, as this property section of the legislation reads on the date of execution of this Agreement (the \"current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE\"), and will not include any amendments thereto or successor legislation.",
+    "label": "Property Governed by Current Legislation"
+  },
+  {
+    "id": "7021",
+    "category": "Property Rights",
+    "text": "During the marriage and upon a breakdown of the relationship, the parties will have such rights and will be under such obligations, with respect to their own property as are given or imposed upon each party by the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, and will not include any amendments thereto or successor legislation.",
+    "label": "Property Rights/Obligations"
+  },
+  {
+    "id": "7022",
+    "category": "Property Rights",
+    "text": "In particular, upon a breakdown of the relationship, all property will be equalized in accordance with the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, and excluded property as defined under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE will not be equalized or included in net family property, regardless of any subsequent amendments or successor legislation resulting in a change of the definition of excluded property or the inclusion of any excluded property in an equalization of net family property.",
+    "label": "No Equalization of Excluded Property"
+  },
+  {
+    "id": "7023",
+    "category": "Property Rights",
+    "text": "In the event of a breakdown of the relationship, the value of Party 1's date of marriage property to be deducted from that party's net family property in the equalization calculation under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE is specified as follows: Party 1 will be entitled to a date of marriage deduction in the amount of $[amount], [comprised of the following:] [list assets/liabilities and values].",
+    "label": "Date of Marriage Deduction"
+  },
+  {
+    "id": "7024",
+    "category": "Property Rights",
+    "text": "In the event of a breakdown of the relationship, the value of Party 2's date of marriage property to be deducted from that party's net family property in the equalization calculation under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE is specified as follows: Party 2 will be entitled to a date of marriage deduction in the amount of $[amount], [comprised of the following:] [list assets/liabilities and values].",
+    "label": "Date of Marriage Deduction"
+  },
+  {
+    "id": "7025",
+    "category": "Property Rights",
+    "text": "Except as specifically modified in this paragraph or as otherwise provided in this Agreement, Party 1 and Party 2 agree as follows: Their property will at all times be treated, divided and equalized in accordance with Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, as this property section of the legislation reads on the date of execution of this Agreement (the \"current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE\"), and will not include any amendments thereto or successor legislation.",
+    "label": "Modified FLA Application"
+  },
+  {
+    "id": "7026",
+    "category": "Property Rights",
+    "text": "During the marriage and upon a breakdown of the relationship, the parties will have such rights and will be under such obligations, with respect to their own property as are given or imposed upon each party by the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, and will not include any amendments thereto or successor legislation.",
+    "label": "Rights & Obligations"
+  },
+  {
+    "id": "7027",
+    "category": "Property Rights",
+    "text": "In particular, upon a breakdown of the relationship, all property will be equalized in accordance with the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, and excluded property (as modified and defined in subparagraphs (e) and (f) below) will not be equalized or included in net family property, regardless of any subsequent amendments or successor legislation resulting in a change of the definition of excluded property or the inclusion of any excluded property in an equalization of net family property.",
+    "label": "Excluded Property – No Changes"
+  },
+  {
+    "id": "7028",
+    "category": "Property Rights",
+    "text": "Any debt or liability relating to any excluded property (as modified and defined in subparagraphs (e) and (f) below) will not be deducted in the calculation of the net family property of the party who owns the excluded property.",
+    "label": "Debt Relating to Excluded Property"
+  },
+  {
+    "id": "7029",
+    "category": "Property Rights",
+    "text": "For the purposes of equalization under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, the definition of excluded property is modified, such that the following property is Party 1's excluded property and accordingly does not form part of Party 1's net family property: (i) All gifts and inheritances, and any interest or income earned or accrued on such gifts and inheritances, received by Party 1 individually from third parties, whether acquired before, during or after the parties' cohabitation or marriage, but not including any gifts received by Party 1 and Party 2 in honour of their marriage; (ii) Damages or a right to damages for personal injuries, nervous shock, mental distress or loss of guidance, care and companionship, or the part of a settlement that represents those damages, whether obtained by Party 1 before, during or after the parties' cohabitation or marriage; (iii) Proceeds or a right to proceeds of a policy of life insurance, as defined in the Insurance Act, that are payable to Party 1 on the death of the life insured, whether obtained before, during or after the parties' cohabitation or marriage; (iv) [Party 1's business assets]; (v) [Party 1's trust assets]; (vi) [DOM residence]; (vii) [family residence]; (viii) [list all other property of Party 1 to be excluded]; (ix) All property substituted for property referred to in this paragraph; (x) All gains and accretions to property referred to in this paragraph; (xi) All property into which property referred to in this paragraph can be traced, including but not limited to income on income.",
+    "label": "Party 1's Excluded Property"
+  },
+  {
+    "id": "7030",
+    "category": "Property Rights",
+    "text": "For the purposes of equalization under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, the definition of excluded property is modified, such that the following property is Party 2's excluded property and accordingly does not form part of Party 2's net family property: (i) All gifts and inheritances, and any interest or income earned or accrued on such gifts and inheritances, received by Party 2 individually from third parties, whether acquired before, during or after the parties' cohabitation or marriage, but not including any gifts received by Party 1 and Party 2 in honour of their marriage; (ii) Damages or a right to damages for personal injuries, nervous shock, mental distress or loss of guidance, care and companionship, or the part of a settlement that represents those damages, whether obtained by Party 2 before, during or after the parties' cohabitation or marriage; (iii) Proceeds or a right to proceeds of a policy of life insurance, as defined in the Insurance Act, that are payable to Party 2 on the death of the life insured, whether obtained before, during or after the parties' cohabitation or marriage; (iv) [Party 2's business assets]; (v) [Party 2's trust assets]; (vi) [DOM residence]; (vii) [family residence]; (viii) [list all other property of Party 2 to be excluded]; (ix) All property substituted for property referred to in this paragraph; (x) All gains and accretions to property referred to in this paragraph; (xi) All property into which property referred to in this paragraph can be traced, including but not limited to income on income.",
+    "label": "Party 2's Excluded Property"
+  },
+  {
+    "id": "7031",
+    "category": "Property Rights",
+    "text": "In the event of a breakdown of the relationship, the value of Party 1's date of marriage property to be deducted from the party's net family property in the equalization calculation under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, is specified as follows: Party 1 will be entitled to a date of marriage deduction in the amount of $[amount], [comprised of the following:] [list assets/liabilities and values].",
+    "label": "Date of Marriage Deduction"
+  },
+  {
+    "id": "7032",
+    "category": "Property Rights",
+    "text": "In the event of a breakdown of the relationship, the value of Party 2's date of marriage property to be deducted from the party's net family property in the equalization calculation under the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, is specified as follows: Party 2 will be entitled to a date of marriage deduction in the amount of $[amount], [comprised of the following:] [list assets/liabilities and values].",
+    "label": "Date of Marriage Deduction"
+  },
+  {
+    "id": "7033",
+    "category": "Property Rights",
+    "text": "The term \"excluded property,\" as used in this paragraph, means the excluded property as specifically defined above.",
+    "label": "Definition of Excluded Property"
+  },
+  {
+    "id": "7034",
+    "category": "Property Rights",
+    "text": "Notwithstanding anything to the contrary in this Agreement, in the event of a breakdown of the relationship, Party 1 and Party 2 each agree that any claims each has, may have or may hereinafter acquire to an equalization of their net family properties, to any division of property or to support, will not be satisfied or enforced by way of transfer of any interest in the excluded property.",
+    "label": "No Satisfaction from Excluded Property"
+  },
+  {
+    "id": "7035",
+    "category": "Property Rights",
+    "text": "The excluded property will not be the subject of any charge, pledge, encumbrance, attachment or seizure, either before or after any judgment or settlement, in satisfaction of any judgment or settlement or part thereof, provided that there are sufficient assets other than the excluded property with which to satisfy a claim for equalization or support.",
+    "label": "Exempt from Encumbrance"
+  },
+  {
+    "id": "7036",
+    "category": "Property Rights",
+    "text": "Except as otherwise provided in this Agreement, and subject only to an appropriate instrument in writing, the rule of law applying a presumption of a resulting, constructive or implied trust shall not apply in questions of ownership of property between the parties during the marriage or on a breakdown of the relationship.",
+    "label": "No Resulting, Constructive, or Implied Trust"
+  },
+  {
+    "id": "7037",
+    "category": "Property Rights",
+    "text": "Except as otherwise provided by this Agreement, each party waives all rights and entitlement, and releases and discharges the other, from all claims that each has on the effective date of this Agreement or may subsequently acquire in equity or the common law by way of resulting, constructive, or implied trust, including any claims for monetary or proprietary remedies for unjust enrichment, or by way of any other doctrine in equity, and at law under the INSERT PROVINCIAL PROPERTY ACT HERE or any other applicable law of any jurisdiction, now or in the future, to compensation or to any interest in the property or the value, or increase in the value, of the property owned by the other by reason of: (i) the transfer of property to the other without any payment or any adequate payment or any other consideration; (ii) work, money or money's worth contributed to the acquisition, management, maintenance, operation, or improvement of property; (iii) the existence of a joint family venture; or (iv) any other fact or circumstances creating a beneficial interest in property.",
+    "label": "Waiver of Equitable Remedies"
+  },
+  {
+    "id": "7038",
+    "category": "Property Rights",
+    "text": "Nothing in this Agreement prevents either party from making gifts or testamentary dispositions to the other, and if property is purchased in the name of one party by the other party or both parties, it shall be the sole and exclusive property of the party in whose name it was placed.",
+    "label": "Gifts or Testamentary Dispositions"
+  },
+  {
+    "id": "8000",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Party 1 and Party 2 acknowledge that the date of marriage residence (\"DOM residence\") is owned solely by [name of party] and that they [already occupy and] intend to occupy the DOM residence as their matrimonial home once they are married.",
+    "label": "DOM Residence – Ownership"
+  },
+  {
+    "id": "8001",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Party 1 and Party 2 acknowledge and agree that the fair market value of the DOM residence on the effective date of this Agreement is $[amount]. Party 1 and Party 2 further acknowledge that the DOM residence is subject to an outstanding mortgage in the amount of $[amount] in favour of [mortgagee] as of the date of this Agreement, and that [name of party] is the mortgagor.",
+    "label": "DOM Residence – Value & Mortgage"
+  },
+  {
+    "id": "8002",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Party 1 and Party 2 acknowledge and agree that the value of [name of party]'s interest in the DOM residence on the effective date of this Agreement is $[amount], calculated as follows: DOM residence fair market value at date of Agreement less the DOM residence outstanding mortgage amount at date of Agreement.",
+    "label": "DOM Residence – Interest Calculation"
+  },
+  {
+    "id": "8003",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Party 1 and Party 2 agree that the DOM residence will at all times be treated in accordance with the INSERT PROVINCIAL PROPERTY ACT HERE and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "DOM Residence – Legal Framework"
+  },
+  {
+    "id": "8004",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Party 1 and Party 2 do not intend to release any rights they may have against each other with respect to the DOM residence. During the marriage and upon a breakdown of the relationship, each party will have such rights and will be under such obligations, with respect to the DOM residence as are given or imposed upon each party by the INSERT PROVINCIAL PROPERTY ACT HERE, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "DOM Residence – Rights Retained"
+  },
+  {
+    "id": "8005",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Notwithstanding that Party 1 and Party 2 intend to ordinarily occupy the DOM residence as their family residence throughout their marriage and that the DOM residence may be a matrimonial home at the date of a breakdown of the relationship: Party 1 and Party 2 agree that the DOM residence, any income generated from the DOM residence, any increase in the value of the DOM residence, and any assets into which the proceeds from the sale of the DOM residence can be traced (other than a family residence specifically addressed in the section entitled \"Family Residence\" below) (collectively referred to in this paragraph as the DOM residence property), will at all times remain the exclusive property of [name of party] throughout the marriage and upon a breakdown of the relationship.",
+    "label": "DOM Residence – Exclusive Property"
+  },
+  {
+    "id": "8006",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "The DOM residence property will at all times be excluded from an equalization or division of net family property of the parties and under no circumstances will the DOM residence property be included in the net family property of [name of party] or subject to equalization in accordance with the INSERT PROVINCIAL PROPERTY ACT HERE or any other applicable legislation or law, now or in the future, in law or in equity. [name of party] will not claim nor be entitled to an equalization of the DOM residence property, or to a division of the DOM residence property upon a breakdown of the relationship.",
+    "label": "DOM Residence – Exclusion from NFP"
+  },
+  {
+    "id": "8007",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "[name of party] waives all rights under Part I of the INSERT PROVINCIAL PROPERTY ACT HERE and all other rights that [he/she] has or may acquire under any other applicable legislation or law, now or in the future, in law or in equity, to the DOM residence property.",
+    "label": "DOM Residence – Waiver"
+  },
+  {
+    "id": "8008",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "No contributions by [name of party] to the DOM residence property, including any contribution towards the mortgage instalments, utility bills, routine repairs, taxes or similar carrying costs of the DOM residence or otherwise, will entitle [name of party] to any interest in the DOM residence property, including any interest by way of resulting, constructive or implied trust, or any claims for monetary or proprietary remedies for unjust enrichment, or by way of any other doctrine in equity or at law.",
+    "label": "DOM Residence – No Trust Claims"
+  },
+  {
+    "id": "8009",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "This paragraph may be pleaded and is a complete defence to any claim, application or other court proceeding by [name of party] for an equalization of the DOM residence property or any other proceeding involving a claim for a division of the DOM residence property or its value.",
+    "label": "DOM Residence – Defence Clause"
+  },
+  {
+    "id": "8010",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "[Except as otherwise provided in this Agreement,] Party 1 and Party 2 agree as follows: During the marriage and upon a breakdown of the relationship, the DOM residence will at all times be treated, divided and equalized in accordance with Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, as this property section of the legislation reads as of the date of this Agreement (the \"current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE\"), and will not include any amendments thereto or successor legislation.",
+    "label": "DOM Residence – Current FLA Application"
+  },
+  {
+    "id": "8011",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "In particular, upon a breakdown of the relationship, the DOM residence will be equalized in accordance with the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, regardless of any subsequent amendments or successor legislation resulting in a change to the equalization of net family property or the treatment of the matrimonial home: (i) If the DOM residence is a matrimonial home at the time of a breakdown of the relationship, the DOM residence will be equalized between the parties, regardless of [name of party]'s ownership, with no deduction of the value of [name of party]'s interest in the DOM residence on the effective date of this Agreement (as valued above) from [name of party]'s net family property; (ii) If the DOM residence is not a matrimonial home at the time of a breakdown of the relationship, [name of party] will be entitled to a deduction of the value of [his/her] interest in the DOM residence on the effective date of this Agreement (as valued above) from [his/her] net family property in any equalization of property.",
+    "label": "DOM Residence – Equalization Details"
+  },
+  {
+    "id": "8012",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Except as specifically modified by this paragraph or as otherwise provided in this Agreement, Party 1 and Party 2 agree as follows: During the marriage and upon a breakdown of the relationship, the DOM residence will at all times be treated, divided and equalized in accordance with Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, as this property section of the legislation reads as of the date of this Agreement (the \"current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE\"), and will not include any amendments thereto or successor legislation.",
+    "label": "DOM Residence – Modified FLA"
+  },
+  {
+    "id": "8013",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Notwithstanding that Party 1 and Party 2 intend to ordinarily occupy the DOM residence as their family residence throughout their marriage and that the DOM residence may be a matrimonial home at the date of a breakdown of the relationship, [name of party] will be entitled to a deduction of the value of [his/her] interest in the DOM residence on the effective date of this Agreement (as valued above) from [his/her] net family property in any equalization of property.",
+    "label": "DOM Residence – Date of Marriage Deduction"
+  },
+  {
+    "id": "8014",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Except as specifically modified by this paragraph or as otherwise provided in this Agreement, Party 1 and Party 2 agree as follows: During the marriage and upon a breakdown of the relationship, the DOM residence will at all times be treated, divided and equalized in accordance with Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, as this property section of the legislation reads as of the date of this Agreement (the \"current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE\"), and will not include any amendments thereto or successor legislation.",
+    "label": "DOM Residence – Partial Appreciation Clause"
+  },
+  {
+    "id": "8015",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Notwithstanding that Party 1 and Party 2 intend to ordinarily occupy the DOM residence as their family residence throughout their marriage and that the DOM residence may be a matrimonial home at the date of a breakdown of the relationship, Party 1 and Party 2 agree that in the event of a breakdown of the relationship, only the appreciation of the DOM residence accrued during their marriage will be divided or equalized between them, on the following basis:",
+    "label": "DOM Residence – Sharing Appreciation"
+  },
+  {
+    "id": "8016",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "[name of party] will include in [his/her] net family property [one-half] [one-third] [one quarter] of any increase in the value of [his/her] interest in the DOM residence accruing between the effective date of this Agreement and the date of the breakdown of the relationship.",
+    "label": "DOM Residence – Proportion of Increase"
+  },
+  {
+    "id": "8017",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "The value of [name of party]'s interest in the DOM residence on the effective date of this Agreement is set out above.",
+    "label": "DOM Residence – Base Value"
+  },
+  {
+    "id": "8018",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "The value of [name of party]'s interest in the DOM residence on the date of the breakdown of the relationship will be: (1) the fair market value of the DOM residence on the date of the breakdown of the relationship: as agreed upon by Party 1 and Party 2; or if Party 1 and Party 2 cannot agree, determined as follows: Each party will each select a qualified real estate appraiser who will appraise the DOM residence on the date of the breakdown of the relationship. The two appraisals will then be exchanged and if they are within ten percent of each other, the value will be the average of the two. If the appraisals are not within ten percent of each other, the two appraisers will select a third appraiser to prepare a third appraisal. The two closest appraisals of the three will be averaged, and the value will be the average of the two appraisals; less (2) the value of any outstanding mortgage on the DOM residence; (3) notional real estate commission of [number] percent; and (4) legal expenses of $[number].",
+    "label": "DOM Residence – Valuation Method"
+  },
+  {
+    "id": "8019",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Party 1 and Party 2 agree that, provided that there has been no breakdown of the relationship, [name of party] can increase [his/her] ownership in the DOM residence, up to a maximum 50% interest, with [name of party]'s written consent, by: (i) reducing the principal of the mortgage by an amount equal to or less than the value of [name of party]'s interest in the DOM residence at the time of the payment; or (ii) paying [name of party] an amount equal to or less than one-half of the value of [name of party]'s interest in the DOM residence at the time of the payment.",
+    "label": "DOM Residence – Increasing Ownership"
+  },
+  {
+    "id": "8020",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "(For example, assuming the DOM residence is valued at $300,000 at the time of [name of party]'s payment and there is a $200,000 mortgage on the DOM residence, the value of [name of party]'s interest in the DOM residence is $100,000. [name of party] may either pay down $100,000 (or less) on the mortgage, or [name of party] may pay [name of party] $50,000 (or less) to obtain an ownership interest in the DOM residence.)",
+    "label": "DOM Residence – Example Note"
+  },
+  {
+    "id": "8021",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "For the purposes of this paragraph, the value of [name of party]'s interest in the DOM residence at the time of the payment will be: (i) the fair market value of the DOM residence at the time of the payment: (1) as agreed upon by [name of party] and [name of party]; or (2) if Party 1 and Party 2 cannot agree, as appraised by a qualified real estate appraiser jointly selected by Party 1 and Party 2; less (ii) the value of any outstanding mortgage on the DOM residence at the time of the payment.",
+    "label": "DOM Residence – Value at Time of Payment"
+  },
+  {
+    "id": "8022",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Ownership of the DOM residence will be changed to reflect [name of party]'s new ownership interest in the DOM residence, based on [his/her] proportionate contribution to the DOM residence. (For example, assuming the DOM residence is valued at $300,000 at the time of [name of party]'s payment and there is a $200,000 mortgage on the DOM residence, [name of party]'s interest in the DOM residence is $100,000. If [name of party] contributes $50,000 by paying down the mortgage, then the DOM residence will be owned by the parties as tenants in common with [name of party] owning 66.67% and [name of party] owning 33.33%. If instead [name of party] pays [name of party] $50,000 directly, then the DOM residence will be owned equally by the parties either as tenants in common each with a 50% interest or as joint tenants, depending on how the parties wish to reflect their equal ownership.)",
+    "label": "DOM Residence – Ownership Change"
+  },
+  {
+    "id": "8023",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "In the event of a breakdown of the relationship, notwithstanding that [name of party] and [name of party] intend to ordinarily occupy the DOM residence throughout their marriage and that the DOM residence may be a matrimonial home at the date of a breakdown of the relationship, Party 1 and Party 2 agree that the DOM residence, as well as any income generated from the DOM residence, any increase in the value of the DOM residence, and any assets into which the proceeds from the sale of the DOM residence can be traced (other than a family residence specifically addressed in the section entitled \"Family Residence\" below) (collectively referred to in this paragraph as the \"DOM residence property\") will at all times be excluded from an equalization or division of net family property of the parties and will under no circumstances be included in the net family property of either party or subject to equalization in accordance with the INSERT PROVINCIAL PROPERTY ACT HERE. Instead, the division of the DOM residence property will be determined based on ownership, according to the procedure set out below.",
+    "label": "DOM Residence – Exclusion from NFP"
+  },
+  {
+    "id": "8024",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "In the event that the DOM residence is sold prior to a breakdown of the relationship and the proceeds used to purchase a family residence, the paragraphs in the section entitled \"Family Residence\" below will apply.",
+    "label": "DOM Residence – Proceeds for Family Home"
+  },
+  {
+    "id": "8025",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "In the event of a breakdown of the relationship, each party will have the option to purchase the other party's interest in the DOM residence (hereinafter referred to in this paragraph as the \"option\") in the following priority: (i) [name of party] has the first option, written notice to be given within 30 days of the date of the breakdown of the relationship; (ii) If [name of party] declines to exercise the option within 30 days of the date of the breakdown of the relationship, [name of party] has the option, written notice to be given within 60 days of the date of the breakdown of the relationship.",
+    "label": "DOM Residence – Purchase Option"
+  },
+  {
+    "id": "8026",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "The party wishing to exercise this option will give the other party notice in writing, within the time prescribed in subparagraph (a) above, with payment to be made to the other party on or before the expiration of 6 months from the date of the breakdown of the relationship.",
+    "label": "DOM Residence – Exercising the Option"
+  },
+  {
+    "id": "8027",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "In the event that neither party exercises this option, the DOM residence will be listed for sale immediately following the expiration of the 60 day period allowed for the parties to exercise their options (from the date of the breakdown of the relationship), and the proceeds divided between the parties in accordance with their proportionate ownership interest after payment of all outstanding mortgages, real estate commissions and legal fees.",
+    "label": "DOM Residence – Sale If No Option"
+  },
+  {
+    "id": "8028",
+    "category": "Date of Marriage Home Ownership/Calculations",
+    "text": "Nothing in this Agreement restricts or modifies the rights of either party with respect to the possession, disposition or encumbrance of the matrimonial home, but each of the parties intends that if there is a breakdown of the relationship, it will be reasonable in the circumstances for [name of party] to vacate and give [name of party] vacant possession of the DOM residence within [number] [days] [months] of the date of the breakdown of the relationship, although [he/she] is not and cannot be bound by this Agreement to do so.",
+    "label": "DOM Residence – Vacant Possession"
+  },
+  {
+    "id": "9000",
+    "category": "Family Residence Division",
+    "text": "Party 1 and Party 2 agree that the family residence will at all times be treated in accordance with the INSERT PROVINCIAL PROPERTY ACT HERE and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "Family Residence – General Application"
+  },
+  {
+    "id": "9001",
+    "category": "Family Residence Division",
+    "text": "Party 1 and Party 2 do not intend to release any rights they may have against each other with respect to the family residence. During the marriage and upon a breakdown of the relationship, each party will have such rights and will be under such obligations, with respect to the family residence as are given or imposed upon each party by the INSERT PROVINCIAL PROPERTY ACT HERE, the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, and/or any other applicable legislation or law, now or in the future, at law or in equity.",
+    "label": "Family Residence – Rights Retained"
+  },
+  {
+    "id": "9002",
+    "category": "Family Residence Division",
+    "text": "In the event that Party 1 and Party 2 purchase a family residence, the family residence will not be shared equally. Ownership in the family residence will be in proportion to the parties' respective financial contributions to the purchase price. [For example, if the family residence is purchased with a down payment of $100,000, of which $70,000 is contributed by Party 1 and $30,000 is contributed by Party 2, then the family residence will be owned by the parties as tenants in common with Party 1 owning 70% and Party 2 owning 30%.] In order to substantiate their claims, each party will provide satisfactory documentary evidence of their respective financial contributions to the original purchase of the family residence, which documentary evidence will be the basis on which each party's respective share is determined.",
+    "label": "Family Residence – Ownership Shares"
+  },
+  {
+    "id": "9003",
+    "category": "Family Residence Division",
+    "text": "In the event of a breakdown of the relationship, notwithstanding that the parties intend to ordinarily occupy the family residence throughout their marriage and that the family residence may be a matrimonial home at the date of a breakdown of the relationship, the parties agree that the family residence, as well as any income generated from the family residence, any increase in the value of the family residence and any assets into which the proceeds from the sale of the family residence can be traced (collectively referred to in this paragraph as the \"family residence property\") will at all times be excluded from an equalization or division of net family property of the parties and will under no circumstances be included in the net family property of either party or subject to equalization in accordance with the INSERT PROVINCIAL PROPERTY ACT HERE. Instead, the division of the family residence property will be determined based on ownership, according to the procedure set out below.",
+    "label": "Family Residence – Exclusion from NFP"
+  },
+  {
+    "id": "9004",
+    "category": "Family Residence Division",
+    "text": "This paragraph will apply to any additional or subsequent family residence(s) purchased during the marriage.",
+    "label": "Family Residence – Additional Homes"
+  },
+  {
+    "id": "9005",
+    "category": "Family Residence Division",
+    "text": "Party 1 and Party 2 agree that, provided that there has been no breakdown of the relationship, the party with the lesser interest in the family residence can increase his or her ownership in the family residence, up to a maximum 50% interest by: (i) reducing the principal of the mortgage by an amount equal to or less than the difference in the amount that each would be entitled to if the family residence were sold; or (ii) paying the other an amount equal to or less than one-half of the difference in the amounts that each would be otherwise entitled to if the family residence were sold.",
+    "label": "Family Residence – Increasing Ownership"
+  },
+  {
+    "id": "9006",
+    "category": "Family Residence Division",
+    "text": "[For example, assuming the family residence was originally purchased for $250,000 with a down payment of $100,000, of which $70,000 was contributed by Party 1 and $30,000 was contributed by Party 2, (with a $150,000 mortgage), then the family residence's ownership would have reflected the parties as tenants in common with Party 1 owning 70% and Party 2 owning 30%. Assuming ten years later, the family residence is worth $300,000 with a mortgage of $100,000, Party 1 and Party 2's respective equity in the home is $140,000 and $60,000 (for a total of $200,000). If Party 2 wishes to increase her ownership interest to 50%, Party 2 could contribute $80,000 towards the mortgage (ie. the difference between Party 1's equity and Party 2's equity) to bring her total equity up to $140,000 (ie. same as Party 1's). Or Party 2 could pay Party 1 $40,000 (ie. the difference between Party 1's equity and Party 2's equity) to bring her total equity up to $100,000 and reduce Party 1's equity to $100,000 (ie. the same).]",
+    "label": "Family Residence – Example Note"
+  },
+  {
+    "id": "9007",
+    "category": "Family Residence Division",
+    "text": "For the purposes of this paragraph, the value of the family residence if it were sold at the time of the payment will be: (i) the fair market value of the family residence at the time of the payment: (1) as agreed upon by Party 1 and Party 2; or (2) if Party 1 and Party 2 cannot agree, as appraised by a qualified real estate appraiser jointly selected by Party 1 and Party 2; less (ii) the value of any outstanding mortgage on the family residence at the time of the payment.",
+    "label": "Family Residence – Valuation at Payment"
+  },
+  {
+    "id": "9008",
+    "category": "Family Residence Division",
+    "text": "Ownership of the family residence will be changed to reflect each party's new ownership interest, based on each party's proportionate contribution to the family residence. [In the example in subparagraph (a) above, the ownership of the family residence will have to be changed to reflect the parties' equal ownership, either as tenants in common each with a 50% interest or as joint tenants, depending on how the parties wish to reflect their equal ownership.]",
+    "label": "Family Residence – Title Adjustment"
+  },
+  {
+    "id": "9009",
+    "category": "Family Residence Division",
+    "text": "Party 1 and Party 2 agree that, provided that there has been no breakdown of the relationship, on each anniversary date of the closing date of the purchase of the family residence (the \"closing date\"), the party with the lesser interest in the family residence will acquire an additional 2% interest in the title to the family residence, up to a maximum 50% interest. [For example, if the family residence is purchased with a down payment of $100,000, of which $70,000 is contributed by Party 1 and $30,000 is contributed by Party 2, then the family residence will be owned by the parties as tenants in common with Party 1 owning 70% and Party 2 owning 30%. Five years from the closing date, Party 2 will have acquired an additional 10% interest in the title to the family residence, resulting in a total interest of 40%. Ten years from the closing date, each party will own a 50% interest in the family residence, either as tenants in common each with a 50% interest or as joint tenants, depending on how the parties wish to reflect their equal ownership.]",
+    "label": "Family Residence – Anniversary Increase"
+  },
+  {
+    "id": "9010",
+    "category": "Family Residence Division",
+    "text": "Ownership of the family residence will be changed annually to reflect the parties' new ownership interests in the family residence, based on subparagraph (a) above.",
+    "label": "Family Residence – Annual Title Change"
+  },
+  {
+    "id": "9011",
+    "category": "Family Residence Division",
+    "text": "In the event of a breakdown of the relationship, each party will have the option to purchase the other party's interest in the family residence (hereinafter referred to in this paragraph as the \"option\") in the following priority: (i) If Party 1 and Party 2 do not own an equal interest in the family residence: (1) The party with the greater interest in the family residence has the first option, written notice to be given within 30 days of the date of the breakdown of the relationship; (2) If no option is exercised in accordance with subparagraph (a)(i)(1) above, the party with the lesser interest in the family residence has the option, written notice to be given within 60 days of the date of the breakdown of the relationship; (ii) If Party 1 and Party 2 own an equal interest in the family residence: (1) [Party 1] [Party 2] has the first option, written notice to be given within 30 days of the date of the date of the breakdown of the relationship; (2) If no option is exercised in accordance with subparagraph (a)(ii)(1) above, the other party has the option, written notice to be given within 60 days of the date of the breakdown of the relationship.",
+    "label": "Family Residence – Purchase Option"
+  },
+  {
+    "id": "9012",
+    "category": "Family Residence Division",
+    "text": "The party wishing to exercise this option will give the other party notice in writing, within the time prescribed in subparagraph (a) above, with payment to be made to the other party on or before the expiration of 6 months from the date of the breakdown of the relationship.",
+    "label": "Family Residence – Exercising the Option"
+  },
+  {
+    "id": "9013",
+    "category": "Family Residence Division",
+    "text": "In the event that neither party exercises this option, the family residence will be listed for sale immediately following the expiration of the 60 day period allowed for the parties to exercise their options (from the date of the breakdown of the relationship), and the proceeds divided between the parties in accordance with their proportionate ownership interest after payment of all outstanding mortgages, real estate commissions and legal fees.",
+    "label": "Family Residence – Sale If No Option"
+  },
+  {
+    "id": "9014",
+    "category": "Family Residence Division",
+    "text": "During the marriage and upon a breakdown of the relationship, Party 1 and Party 2 agree that the family residence will at all times be treated, divided and equalized in accordance with Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, as this property section of the legislation reads as of the date of this Agreement (the \"current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE\"), and will not include any amendments thereto or successor legislation.",
+    "label": "Family Residence – Current FLA Application"
+  },
+  {
+    "id": "9015",
+    "category": "Family Residence Division",
+    "text": "In particular, upon a breakdown of the relationship, the family residence will be equalized in accordance with the current Part I of the INSERT PROVINCIAL PROPERTY ACT HERE, regardless of any subsequent amendments or successor legislation resulting in a change to the equalization of net family property or the treatment of the matrimonial home. In other words, if the family residence is a matrimonial home at the time of a breakdown of the relationship, the family residence will be equalized between the parties, regardless of ownership.",
+    "label": "Family Residence – Equalization Regardless of Amendments"
+  },
+  {
+    "id": "9016",
+    "category": "Family Residence Division",
+    "text": "Immediately after the date of their marriage, Party 1 and Party 2 undertake to execute and register a joint designation of the property at [address] as their matrimonial home.",
+    "label": "Matrimonial Home – Joint Designation"
+  },
+  {
+    "id": "9017",
+    "category": "Family Residence Division",
+    "text": "Immediately after the purchase of a family residence, Party 1 and Party 2 undertake to execute and register a joint designation of the family residence as their matrimonial home.",
+    "label": "Matrimonial Home – Future Designation"
+  },
+  {
+    "id": "9018",
+    "category": "Family Residence Division",
+    "text": "Nothing in this Agreement restricts or modifies the rights of either party with respect to the possession, disposition or encumbrance of the matrimonial home, but each of the parties intends that if there is a breakdown of the relationship, it will be reasonable in the circumstances for [Party 1] [Party 2] to vacate and give [Party 2] [Party 1] vacant possession of the family residence within [number] [days] [months] of the date of the breakdown of the relationship, although [s]he is not and cannot be bound by this Agreement to do so.",
+    "label": "Family Residence – Vacant Possession"
+  },
+  {
+    "id": "10000",
+    "category": "Household Property and Possessions",
+    "text": "Upon a breakdown of the relationship for any reason other than the death of one of the parties, all household contents and personal effects will be distributed between Party 1 and Party 2 according to ownership, whether that ownership arises by way of purchase, inheritance or gift, including gifts from the other party.",
+    "label": "Household Items – Ownership Rule"
+  },
+  {
+    "id": "10001",
+    "category": "Household Property and Possessions",
+    "text": "If owned by a party prior to marriage, they will remain the exclusive property of that party, free from any claim whatsoever by the other party.",
+    "label": "Household Items – Pre-Marriage Ownership"
+  },
+  {
+    "id": "10002",
+    "category": "Household Property and Possessions",
+    "text": "If purchased during the marriage out of joint funds for the parties' joint use and enjoyment, they will be divided equally in kind.",
+    "label": "Household Items – Joint Purchases"
+  },
+  {
+    "id": "10003",
+    "category": "Household Property and Possessions",
+    "text": "If purchased during the marriage out of a party's sole funds, they will be the exclusive property of that party.",
+    "label": "Household Items – Sole-Funds Purchases"
+  },
+  {
+    "id": "10004",
+    "category": "Household Property and Possessions",
+    "text": "If acquired by way of gift or inheritance from the other party or from a third party, they will be the exclusive property of the party to whom they were gifted or bequeathed.",
+    "label": "Household Items – Gifts or Inheritances"
+  },
+  {
+    "id": "10005",
+    "category": "Household Property and Possessions",
+    "text": "If acquired by both parties by way of gift or inheritance from one party's family or friends, they will be the exclusive property of that one party.",
+    "label": "Household Items – Joint Gift from One Side"
+  },
+  {
+    "id": "10006",
+    "category": "Household Property and Possessions",
+    "text": "All other property (or property whose acquisition is disputed) will be distributed according to ownership, whether that ownership arises by way of purchase, inheritance or gift, including gifts from the other party.",
+    "label": "Household Items – All Other/Disputed"
+  },
+  {
+    "id": "10007",
+    "category": "Household Property and Possessions",
+    "text": "Upon a breakdown of the relationship as a result of the death of one of the parties, all household contents and personal property will be deemed to belong to the survivor, provided that the survivor survives the other by 30 days. Otherwise, the contents and personal property will be deemed to belong to the children of Party 1 and Party 2 alive at the survivor's death. If no such children are alive, the contents and personal property will form part of the parties' respective estates.",
+    "label": "Household Items – Survivor Rule"
+  },
+  {
+    "id": "11000",
+    "category": "Household Property and Possessions",
+    "text": "Other than with the prior written consent of the other party, neither party will contract in the name of the other nor bind the other in any way for any debts and liabilities.",
+    "label": "Debts – No Authority to Bind"
+  },
+  {
+    "id": "11001",
+    "category": "Household Property and Possessions",
+    "text": "Party 1 and Party 2 will each be solely responsible for all debts and liabilities each incurs on their own behalf, or on behalf of third parties, before or after the date of this Agreement.",
+    "label": "Debts – Sole Responsibility"
+  },
+  {
+    "id": "11002",
+    "category": "Household Property and Possessions",
+    "text": "Party 1 and Party 2 will each indemnify the other from any claim, expense or liability, including any related damages or costs, arising out of the debts and liabilities each incurs on their own behalf, or on behalf of third parties, before or after the date of this Agreement.",
+    "label": "Debts – Indemnity"
+  },
+  {
+    "id": "12000",
+    "category": "Dispute Resolution",
+    "text": "Party 1 and Party 2 wish to settle between themselves any future disputes that may arise under this Agreement, including the interpretation, ongoing management and implementation of this Agreement, without recourse to the courts in so far as possible. Party 1 and Party 2 will try to resolve any differences between them on any matter in this Agreement by negotiation between themselves personally or by their lawyers and, unless there is an emergency, neither party will initiate any other procedure until negotiations have exhausted all reasonable possibilities of resolution.",
+    "label": "Dispute Resolution – Negotiation First"
+  },
+  {
+    "id": "12001",
+    "category": "Dispute Resolution",
+    "text": "Whether the negotiations are conducted by Party 1 and Party 2 personally or by their lawyers, they will obtain the assistance of a mediator they select.",
+    "label": "Dispute Resolution – Mediation Required"
+  },
+  {
+    "id": "12002",
+    "category": "Dispute Resolution",
+    "text": "If negotiations are conducted with the assistance of a mediator and no agreement is reached, the mediator will disclose only this fact and make no report, unless otherwise directed by both parties.",
+    "label": "Dispute Resolution – Mediator’s Report"
+  },
+  {
+    "id": "12003",
+    "category": "Dispute Resolution",
+    "text": "No evidence of anything said or of any admission or communication made in the course of the negotiations or mediation is admissible in any legal proceeding, except with the consent of both parties.",
+    "label": "Dispute Resolution – Confidentiality"
+  },
+  {
+    "id": "12004",
+    "category": "Dispute Resolution",
+    "text": "Party 1 and Party 2 agree that if they are unable to resolve a dispute through mediation, it would be reasonable to consider a private arbitration process with the advice of counsel to resolve the dispute, although each understands that neither is bound by the arbitration process.",
+    "label": "Dispute Resolution – Consider Arbitration"
+  },
+  {
+    "id": "12005",
+    "category": "Dispute Resolution",
+    "text": "Party 1 and Party 2 acknowledge that the arbitration contemplated in subparagraph (e) above is a secondary arbitration as defined in section 59.7 of the INSERT PROVINCIAL PROPERTY ACT HERE.",
+    "label": "Dispute Resolution – Secondary Arbitration"
+  },
+  {
+    "id": "13000",
+    "category": "Dispute Resolution",
+    "text": "This Agreement survives the death of Party 1 and Party 2 and enures to the benefit of and binds Party 1 and Party 2's heirs, executors, estate trustees, personal representatives and assigns.",
+    "label": "Estate – Agreement Survives Death"
+  },
+  {
+    "id": "13001",
+    "category": "Estate Issues",
+    "text": "Party 1 and Party 2 each releases and discharges all claims and rights that each party has or may have or acquire under the INSERT PROVINCIAL ESTATE /PROBATE ACT HERE, or any other related or similar statute.",
+    "label": "Estate – Succession Law Reform Waiver"
+  },
+  {
+    "id": "13002",
+    "category": "Estate Issues",
+    "text": "Party 1 and Party 2 each releases any right to share in the estate of the other upon the other dying intestate.",
+    "label": "Estate – Intestacy Share Waiver"
+  },
+  {
+    "id": "13003",
+    "category": "Estate Issues",
+    "text": "Party 1 and Party 2 each waives any allowance or payment as a dependant from the estate of the other.",
+    "label": "Estate – Dependant’s Relief Waiver"
+  },
+  {
+    "id": "13004",
+    "category": "Estate Issues",
+    "text": "Party 1 and Party 2 each waives any right under the Trustee Act, or any related or similar statute, to act as executor or administrator of the will or the estate of the other, unless specifically provided for in the other party's will.",
+    "label": "Estate – Executor Appointment Waiver"
+  },
+  {
+    "id": "13005",
+    "category": "Estate Issues",
+    "text": "Party 1 and Party 2 each waives any right under the INSERT PROVINCIAL PROPERTY ACT HERE, or any related or similar statute, to an equalization of the parties' net family property on the death of the other.",
+    "label": "Estate – Equalization Waiver on Death"
+  },
+  {
+    "id": "13006",
+    "category": "Estate Issues",
+    "text": "In the event of the death of either Party, nothing in this Agreement will be deemed to constitute a waiver of rights to any property devised or bequeathed by the deceased to the survivor under the terms of the deceased's will.",
+    "label": "Estate – Bequests Not Waived"
+  },
+  {
+    "id": "13007",
+    "category": "Estate Issues",
+    "text": "Nothing in this Agreement waives the survivor’s right to proceeds of any insurance, pension, registered retirement savings plan, or other plans, to which the survivor may be entitled as the designated beneficiary, or pursuant to the terms of the said plans on the death of the deceased.",
+    "label": "Estate – Insurance & Pensions"
+  },
+  {
+    "id": "13008",
+    "category": "Estate Issues",
+    "text": "Nothing in this Agreement waives rights to any property held by the deceased and the survivor as joint tenants which passes to the survivor by right of survivorship.",
+    "label": "Estate – Joint Tenancy Survivorship"
+  },
+  {
+    "id": "13009",
+    "category": "Estate Issues",
+    "text": "Nothing in this Agreement waives the right to act as executor or estate trustee of the will or the estate of the other, if specifically provided for in the other party's will.",
+    "label": "Estate – Executor Right if Named"
+  },
+  {
+    "id": "14000",
+    "category": "Estate Issues",
+    "text": "Party 1 and Party 2 each acknowledges and agrees that this Agreement is a marriage contract entered into under section 52 of the INSERT PROVINCIAL PROPERTY ACT HERE, and is a domestic contract that prevails over all matters dealt with in the INSERT PROVINCIAL PROPERTY ACT HERE.",
+    "label": "General – Nature of Contract"
+  },
+  {
+    "id": "14001",
+    "category": "General Terms",
+    "text": "The effective date of this Agreement is the date on which the latter party signs it[, or on the date of the marriage of the parties, whichever is later].",
+    "label": "General – Effective Date"
+  },
+  {
+    "id": "14002",
+    "category": "General Terms",
+    "text": "The interpretation of this Agreement is governed by the laws of Provincial, even if Party 1 and Party 2 are not living in Provincial at the date of the breakdown of the relationship.",
+    "label": "General – Governing Law"
+  },
+  {
+    "id": "14003",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 acknowledge that at some future date, the provisions contained in the INSERT PROVINCIAL PROPERTY ACT HERE relating to equalization of net family property may be amended or revoked or that other statutory provisions may be proclaimed from time to time. Party 1 and Party 2 agree that regardless of any such changes, the provisions of this Agreement shall prevail over any current or future legislation with regard to division of property between spouses or former spouses.",
+    "label": "General – FLA Changes Irrelevant"
+  },
+  {
+    "id": "14004",
+    "category": "General Terms",
+    "text": "There are no representations, collateral agreements, warranties or conditions affecting this Agreement. There are no implied agreements arising from this Agreement and this Agreement between Party 1 and Party 2 constitutes the complete agreement between them.",
+    "label": "General – Entire Agreement"
+  },
+  {
+    "id": "14005",
+    "category": "General Terms",
+    "text": "No terms of this Agreement may be varied by a Court.",
+    "label": "General – No Court Variation"
+  },
+  {
+    "id": "14006",
+    "category": "General Terms",
+    "text": "This Agreement prevails over any matter that is provided for in the INSERT PROVINCIAL PROPERTY ACT HERE where this Agreement makes provision for such matter.",
+    "label": "Priority – INSERT PROVINCIAL PROPERTY ACT HERE"
+  },
+  {
+    "id": "14007",
+    "category": "General Terms",
+    "text": "This Agreement prevails over any matter that is provided for in any succeeding legislation where this Agreement makes provision for such matter.",
+    "label": "Priority – Succeeding Legislation"
+  },
+  {
+    "id": "14008",
+    "category": "General Terms",
+    "text": "This Agreement prevails over any matter that is provided for in any subsequent domestic contract between one of the parties and another person where this Agreement makes provision for such matter.",
+    "label": "Priority – Later Domestic Contract"
+  },
+  {
+    "id": "14009",
+    "category": "General Terms",
+    "text": "Except as otherwise provided in this Agreement, the invalidity or unenforceability of any term of this Agreement does not affect the validity or enforceability of any other term. Any invalid term will be treated as severed from the remaining terms.",
+    "label": "General – Severability"
+  },
+  {
+    "id": "14010",
+    "category": "General Terms",
+    "text": "Nothing in this Agreement restricts or modifies the rights or obligations of either party with respect to the possession, disposition or encumbrance of the matrimonial home, as defined by Part II of the INSERT PROVINCIAL PROPERTY ACT HERE.",
+    "label": "Matrimonial Home – Rights Unaffected"
+  },
+  {
+    "id": "14011",
+    "category": "General Terms",
+    "text": "The paragraph headings contained in this Agreement are for convenience only and do not affect the meaning or interpretation of any term of this Agreement.",
+    "label": "Interpretation – Headings (14.10)"
+  },
+  {
+    "id": "14012",
+    "category": "General Terms",
+    "text": "Any amendments to or agreement to vary this Agreement must be in writing, signed by Party 1 and Party 2, dated and witnessed.",
+    "label": "Amendments – Writing Required"
+  },
+  {
+    "id": "14013",
+    "category": "General Terms",
+    "text": "If a divorce judgment or order issues, or if the marriage is declared a nullity, all of the terms of this Agreement will survive and continue in full force and effect.",
+    "label": "Survival – Divorce or Nullity"
+  },
+  {
+    "id": "14014",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 will each inform the executors named in his or her will that this Agreement exists, and where a copy is located.",
+    "label": "Estate – Notice to Executors"
+  },
+  {
+    "id": "14015",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 will sign any documents necessary to give effect to this Agreement.",
+    "label": "General – Further Assurances"
+  },
+  {
+    "id": "14016",
+    "category": "General Terms",
+    "text": "Where consent is required under this Agreement, it will not be unreasonably withheld. If Party 1 and Party 2 cannot agree whether consent is being reasonably withheld, they will use the paragraph of this Agreement entitled \"Dispute Resolution\" to resolve the matter.",
+    "label": "Consent – Reasonableness & DR"
+  },
+  {
+    "id": "14017",
+    "category": "General Terms",
+    "text": "In the event of a breakdown of the relationship for any reason other than death, Party 1 and Party 2 wish to remove any religious barriers to either party's remarriage and they will co-operate in immediately obtaining a [Catholic annulment, Jewish Ghet or Muslim divorce]. They will share the cost equally.",
+    "label": "Religious Barriers"
+  },
+  {
+    "id": "14018",
+    "category": "General Terms",
+    "text": "[Sections (specify) of this Agreement] [This Agreement] will be reviewed: (i) [every (number) years, on the anniversary date of the Agreement]; (ii) [on the birth of a child of the parties]; (iii) [in the event of a material change in circumstance]; (iv) [in the event of a material change in circumstance with respect to (specify issue)]; or (v) [other circumstances]; to determine whether the [specified terms of the] Agreement continue(s) to reflect the parties' agreement and expectations in light of the existing or foreseeable circumstances at the time of the review.",
+    "label": "Review – Triggers"
+  },
+  {
+    "id": "14019",
+    "category": "General Terms",
+    "text": "If Party 1 and Party 2 do not review the Agreement, or review but do not amend the Agreement, the Agreement will be deemed to reflect the parties' agreement and expectations in light of the existing or foreseeable circumstances at the time of the review or permitted review.",
+    "label": "Review – Deemed Acceptance "
+  },
+  {
+    "id": "14020",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 will use the section of this Agreement entitled \"Dispute Resolution\" to resolve any issue on which they are unable to agree.",
+    "label": "Review – DR Clause"
+  },
+  {
+    "id": "14021",
+    "category": "General Terms",
+    "text": "Party 1 or Party 2's failure to insist on the strict performance of any terms in this Agreement will not be a waiver of any term.",
+    "label": "Waiver – No Strict Performance"
+  },
+  {
+    "id": "14022",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 consent to the incorporation of the provisions of this Agreement into a court order so far as may be possible to enforce the provisions of this Agreement.",
+    "label": "Court – Incorporation of Terms"
+  },
+  {
+    "id": "14023",
+    "category": "General Terms",
+    "text": "Nothing in this Agreement limits the right of the parties to enforce their rights and obligations in this Agreement.",
+    "label": "Court – Enforcement Rights"
+  },
+  {
+    "id": "14024",
+    "category": "General Terms",
+    "text": "Upon a breakdown of the relationship, this Agreement will take effect and be construed for all purposes as a separation agreement within the meaning of the INSERT PROVINCIAL PROPERTY ACT HERE and Party 1 and Party 2 shall execute any documentation necessary to give effect to this Agreement as a separation agreement, including but not limited to a separation agreement incorporating the terms of this Agreement.",
+    "label": "Separation-Agreement Effect"
+  },
+  {
+    "id": "14025",
+    "category": "General Terms",
+    "text": "The parties have fully and completely disclosed to the other their respective income and the nature, extent and probable value of all of their respective assets, debts or other liabilities existing at the date of this Agreement, as set out in Schedules \"A\" (Party 1's disclosure) and \"B\" (Party 2's disclosure) attached to this Agreement.",
+    "label": "Disclosure – Full Financial"
+  },
+  {
+    "id": "14026",
+    "category": "General Terms",
+    "text": "The parties have made such investigation of the financial circumstances of the other as each considers reasonable.",
+    "label": "Disclosure – Investigation"
+  },
+  {
+    "id": "14027",
+    "category": "General Terms",
+    "text": "The parties have given all of the information and particulars about their respective income, assets and liabilities as has been requested by the other.",
+    "label": "Disclosure – Info Provided"
+  },
+  {
+    "id": "14028",
+    "category": "General Terms",
+    "text": "The parties are satisfied with the information and particulars received from the other.",
+    "label": "Disclosure – Satisfaction"
+  },
+  {
+    "id": "14029",
+    "category": "General Terms",
+    "text": "The parties acknowledge that there are no requests for further information or particulars that have not been met to each party's complete satisfaction.",
+    "label": "Disclosure – No Unmet Requests"
+  },
+  {
+    "id": "14030",
+    "category": "General Terms",
+    "text": "Although neither Party 1 nor Party 2 has requested nor received financial disclosure from the other, they are satisfied with the financial information each has about the other and each waives further financial disclosure. Party 1 and Party 2 agree that lack of financial disclosure shall not constitute a ground for avoiding the provisions of this Agreement. Party 1 and Party 2 deem financial disclosure irrelevant to the negotiation of the terms of this Agreement.",
+    "label": "Disclosure – Waived"
+  },
+  {
+    "id": "14031",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 each acknowledges that their respective solicitor has drawn to their attention to the INSERT PROVINCIAL PROPERTY ACT HERE, that provides as follows: \"A court may, on application, set aside a domestic contract or a provision in it, (a) if a party failed to disclose to the other significant assets, or significant debts or other liabilities, existing when the domestic contract was made.\" ",
+    "label": "Disclosure – Warning"
+  },
+  {
+    "id": "14032",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 have both had independent legal advice, Party 1 from [full name] and Party 2 from [full name].",
+    "label": "ILA – Obtained"
+  },
+  {
+    "id": "14033",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2: (i) have read the Agreement in its entirety and have full knowledge of the contents; (ii) understand their respective rights and obligations under this Agreement and its nature and consequences; (iii) acknowledge that this Agreement is fair and reasonable; (iv) acknowledge that they are not under any undue influence, duress or coercion; and (v) acknowledge that each is signing this Agreement voluntarily.",
+    "label": "ILA – Acknowledgements"
+  },
+  {
+    "id": "14034",
+    "category": "General Terms",
+    "text": "[Party 1] [Party 2] has been told to obtain independent legal advice, has had the opportunity to obtain independent legal advice, and has declined it.",
+    "label": "ILA – Declined"
+  },
+  {
+    "id": "14035",
+    "category": "General Terms",
+    "text": "[Party 1] [Party 2] acknowledges that [the other party and the other party's lawyer] have recommended to [him] [her] that [he] [she] seek independent legal advice regarding the Agreement, and that [he] [she] has been given the opportunity to seek such legal advice. Notwithstanding such recommendation, [Party 1] [Party 2] wishes to enter into this Agreement without the benefit of independent legal advice and acknowledges that the terms of this Agreement correctly set out [his] [her] wishes and intentions.",
+    "label": "ILA – Declined Statement"
+  },
+  {
+    "id": "14036",
+    "category": "General Terms",
+    "text": "[Party 1] [Party 2] acknowledges that [other party's lawyer] is the solicitor for [the other party] and not the solicitor for [him] [her], and not the solicitor for Party 1 and Party 2 together.",
+    "label": "ILA – Solicitor for One Party"
+  },
+  {
+    "id": "14037",
+    "category": "General Terms",
+    "text": "[Party 1] [Party 2]: (i) understand their respective rights and obligations under this Agreement and its nature and consequences; (ii) acknowledge that this Agreement is fair and reasonable; (iii) acknowledge that they are not under any undue influence or duress; and (iv) acknowledge that each is signing this Agreement voluntarily.",
+    "label": "ILA – Declined Acknowledgements"
+  },
+  {
+    "id": "14038",
+    "category": "General Terms",
+    "text": "The solicitors sign this Agreement not only in their capacity as witness, but also to attest that they have explained to their respective client the meaning and implications at law of each provision in this Agreement.",
+    "label": "Solicitors – Attestation Meaning"
+  },
+  {
+    "id": "14039",
+    "category": "General Terms",
+    "text": "The solicitors sign this Agreement to attest that they are convinced that their respective client is signing this Agreement voluntarily, without duress and with full mental capacity.",
+    "label": "Solicitors – Attestation Voluntary"
+  },
+  {
+    "id": "14040",
+    "category": "General Terms",
+    "text": "This Agreement may be signed in one or more counterparts, as may be convenient or required. All counterparts of this Agreement will collectively constitute one document.",
+    "label": "Execution – Counterparts"
+  },
+  {
+    "id": "14041",
+    "category": "General Terms",
+    "text": "This Agreement or any counterparts may be signed by electronic means, and will bind any such party the same way as the party's handwritten signature would.",
+    "label": "Execution – Electronic Signatures"
+  },
+  {
+    "id": "14042",
+    "category": "General Terms",
+    "text": "Delivery of a signed Agreement or any signed counterparts by facsimile and/or electronic mail or other electronic means will be sufficient, and an electronic copy will have the same effect as an original executed Agreement.",
+    "label": "Execution – Electronic Delivery"
+  },
+  {
+    "id": "14043",
+    "category": "General Terms",
+    "text": "Each of the parties personally or by their respective lawyer has participated in the preparation of this Agreement. It must be construed as if Party 1 and Party 2 were joint authors and it will not be construed against one party as if that party or that party's lawyer were the sole or major author of the Agreement. No doctrine or rule of contra proferentem will be applied to the interpretation of this Agreement.",
+    "label": "Interpretation – Joint Drafting"
+  },
+  {
+    "id": "14044",
+    "category": "General Terms",
+    "text": "Party 1 and Party 2 will pay their own costs for the negotiation and preparation of this Agreement.",
+    "label": "Costs – Own Legal Fees"
+  },
+  {
+    "id": "15000",
+    "category": "Execution",
+    "text": "===PAGE BREAK=== TO EVIDENCE THEIR AGREEMENT PARTY 1 AND PARTY 2 HAVE SIGNED THIS AGREEMENT BEFORE A WITNESS.\n\nDATE:\n\n_________________________        _________________________\nWitness                                                   Party 1\n\n\nDATE:\n\n_________________________        _________________________\nWitness                                                   Party 1",
+    "label": "Execution – Signature Block"
+  },
+  {
+    "id": "16000",
+    "category": "Schedules",
+    "text": "===PAGE BREAK=== CERTIFICATE OF INDEPENDENT LEGAL ADVICE\n\nI, [full name], of the City of [Name] in the Municipality of [Name], in the Province of _____, Barrister and Solicitor, certify that I was consulted by Party 1, one of the parties to the attached Marriage Contract, with respect to his rights and obligations under this Agreement.\n\nI acted only for Party 1 and fully explained to him the nature and effect of the Agreement. Party 1 acknowledged that he completely understood the nature and effect of the Agreement. Party 1 executed the Agreement in front of me and confirmed that he was entering into the Agreement of his own volition without any fear, threats, compulsion or influence by Party 2 or any other person.\n\nDated at [city] this [date]:\n\n______________________________\n[full name]",
+    "label": "Schedule – ILA Certificate (masculine)"
+  },
+  {
+    "id": "16001",
+    "category": "Schedules",
+    "text": "===PAGE BREAK=== CERTIFICATE OF INDEPENDENT LEGAL ADVICE\n\nI, [full name], of the City of [Name] in the Municipality of [Name], in the Province of ______, Barrister and Solicitor, certify that I was consulted by Party 1, one of the parties to the attached Marriage Contract, with respect to her rights and obligations under this Agreement.\n\nI acted only for Party 1 and fully explained to her the nature and effect of the Agreement. Party 1 acknowledged that she completely understood the nature and effect of the Agreement. Party 1 executed the Agreement in front of me and confirmed that she was entering into the Agreement of her own volition without any fear, threats, compulsion or influence by Party 2 or any other person.\n\nDated at [city] this [date]:\n\n______________________________\n[full name]",
+    "label": "Schedule – ILA Certificate (feminine)"
+  },
+  {
+    "id": "16002",
+    "category": "Schedules",
+    "text": "===PAGE BREAK=== AFFIDAVIT OF EXECUTION\n\nI, [witness’ name], of the City of [specify] in the Municipality of [specify], in the Province of _______, make oath and say as follows:\n1. I was personally present and did see the attached Marriage Contract executed by Party 1 in the City of [specify] in the Municipality of [specify], in the Province of ________.\n2. I know Party 1. I am a subscribing witness to this Agreement.\n\nSWORN BEFORE ME at [city/town], __________, this [date]\n\n______________________________          ______________________________\nA Commissioner, etc.                                       [witness’ name]",
+    "label": "Schedule – Affidavit of Execution"
+  }
+]
